@@ -1,4 +1,10 @@
-# Meeting Time and Place
+# Summary (TL;DR)
+
+The Daily Standup Meeting is a [brief meeting](http://martinfowler.com/articles/itsNotJustStandingUp.html) that lets us:
+
+* Catch each other up on the progress we've made during the last day
+* Identify any **impediments** we're facing that must be removed, and 
+* Highlight what we plan to work on for the coming day (provided our **impediments** get removed!)
 
 ## Time
 
@@ -6,9 +12,13 @@
 
 ## GoToMeeting Info:
 
-> Meeting ID: 754-347-648
+> Meeting ID: 754-347-648 
+
 > Web Address: https://www1.gotomeeting.com/join/754347648
-> Phone: 1 (619) 550-0000; Access Code: 754-347-648
+
+> Phone Number: 1 (619) 550-0000
+
+> Phone Access Code: 754-347-648
 
 # Meeting Goals
 
