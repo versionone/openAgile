@@ -28,9 +28,10 @@ We switch no more frequently than every 4 weeks. This helps us:
 ## What? The Artifacts we Review and Update
 
 * [Product Charter](../Artifacts/ProductCharter.md): Account for new understanding of our customers and their problems.
-* [Backlog](): Shape existing GitHub issues into user stories and prioritize
+* Backlog: Shape existing GitHub issues into user stories and prioritize
 * Demand sources: IdeaSpace, Zendesk, or other sources of input and feedback
 * Assumptions and experiments
+* Product Description and Demo Video
 
 # Where? How We Get Together
 
