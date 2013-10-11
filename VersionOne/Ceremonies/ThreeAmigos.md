@@ -1,5 +1,7 @@
 # Three Amigos
 
+![http://upload.wikimedia.org/wikipedia/en/8/87/Three_amigos_ver2.jpg](http://upload.wikimedia.org/wikipedia/en/8/87/Three_amigos_ver2.jpg)
+
 ## Why? The Purpose of the Ceremony
 
 Three Amigos is a [collaborative approach to specification](http://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=COL&ObjectId=17232). The purpose is to:
