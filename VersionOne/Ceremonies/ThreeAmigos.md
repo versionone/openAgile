@@ -1,4 +1,4 @@
-# Product Orientation
+# Three Amigos
 
 ## Why? The Purpose of the Ceremony
 
