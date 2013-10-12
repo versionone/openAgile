@@ -18,7 +18,7 @@ Team, stakeholders, and customers.
 
 The meeting is called before starting a new product or when changing direction to work on a different product. We start with 1 hour of orientation and continue with 1 hour sessions as needed.
 
-We switch no more frequently than every 4 weeks. This helps us:
+We switch no more frequently than every 12 weeks. This helps us:
 
 * Manage switching costs
 * Keep quality high
