@@ -48,5 +48,4 @@ TODO: add GTM
 
 # References
 
-* [Retrospectives
- [Sprint Retrospective](http://www.mountaingoatsoftware.com/scrum/sprint-retrospective/)
+* [Sprint Retrospective](http://www.mountaingoatsoftware.com/scrum/sprint-retrospective/)
