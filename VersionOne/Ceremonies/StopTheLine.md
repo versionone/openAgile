@@ -12,6 +12,8 @@ If it helps you to remember, pretend that he's looking at you over there in the 
 
 ![Quality is everyone's responsibility](http://100qualityquotes.files.wordpress.com/2013/02/dr_w_edwards_deming.jpg)
 
+*Somebody didn't use spell-check, eh?*
+
 ### Goal: Implement the Demming Cycle (PDSA)
 
 Agile and Lean are heavily influenced by Demming's popularization of the Shewhart cycle, becoming popularly known 
