@@ -14,7 +14,6 @@ Adapted from [Retrospectives.com](http://www.retrospectives.com):
 
 Whole openAgile team. Again, guidance from Retrospectives.com:
 
-
 * Include everyone who has a piece of the story to tell.
 * Schedule adequate time to tell the story. A rushed ritual will do more harm than good.
 * Make sure there is a facilitator, someone who was not involved with the project, to lead the ritual.
@@ -35,13 +34,13 @@ Because we have a distributed team, we gather virtually on GTM and open up the [
 * Then, we individually reflect on the previous retrospective by reading the notes for 2 minutes. **No verbal discussion is allowed at this time**.
 * Next, reset Online-Stopwatch to 5 minutes, and individually type up 3 to 5 observations for the following question: 
     * **What did we do well and what did we learn, that if we don’t discuss we might forget?**
-* After the 5 minutes is up, we take turns pasting our notes into the Google doc, discuss them further with others if desired.
-* Then, we repeat the process for this question
+* After the 5 minutes is up, we take turns pasting our notes into the Google doc and discuss them further with others if desired.
+* Then, we repeat the process for this question:
     * **What should we do differently next time?**
-* When it's your turn to put your notes into the document, try to group your items with other like items that already exist
+* *When it's your turn to put your notes into the document, try to group your items with other like items that already exist.*
 * Finally, reflecting on the assembled notes and conversation, we ask: 
     * **What is one thing we can, as a team, commit to improving during the next two weeks?**
-
+* Save the Google doc, and change the openAgile channel topic to the team's agreed improvement goal.
 
 # Where? How We Get Together
 
@@ -51,11 +50,7 @@ TODO: add GTM
 
 # Thoughts
 
-* Seems like we need an issue type for stoptheline so that we have a record of it even after it has been fixed.
-* If stoptheline is an issue, can we automate creating one from Jenkins and Huboard?
-* How can we make it obvious to all? HipChat?
-
 # References
 
-* [Stop the line: 5 c's for improving processes](http://www.slideshare.net/onimproving/stop-the-line-5-cs-for-improving-processes)
-* [Stop the line & Stop Feature Development practices](http://www.slideshare.net/agilespain/presentation-cas2011-18102011)
+* [Retrospectives
+ [Sprint Retrospective](http://www.mountaingoatsoftware.com/scrum/sprint-retrospective/)
