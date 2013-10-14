@@ -12,6 +12,11 @@ Adapted from [Retrospectives.com](http://www.retrospectives.com):
 
 > A retrospective is a ritual gathering of a community at the end of an iteration to review the events and learn from the experience. No one knows the whole story of the iteration. Each person has a piece of the story. The retrospective ritual is the collective telling of the story and mining the experience for wisdom.
 
+## When and Where? Frequency, Timing, Location
+
+Second Wednesdays from 12:30 - 1:30
+
+
 ## Who? The Participants
 
 Whole openAgile team. Again, guidance from Retrospectives.com:
@@ -21,10 +26,6 @@ Whole openAgile team. Again, guidance from Retrospectives.com:
 * Make sure there is a facilitator, someone who was not involved with the project, to lead the ritual.
 
 *NOTE*: We are not currently following the third point. How might this affect our process? 
-
-## When? Frequency and Timing
-
-Second Wednesdays from 12:30 - 1:30
 
 TODO: add GTM
 
@@ -44,13 +45,10 @@ Because we have a distributed team, we gather virtually on GTM and open up the [
     * **What is one thing we can, as a team, commit to improving during the next two weeks?**
 * Save the Google doc, and change the openAgile channel topic to the team's agreed improvement goal.
 
-# Where? How We Get Together
-
-TODO: add GTM
-
-* Determined as needed.
-
 # Thoughts
+
+* JG: I love that there are some great **alternatives** or augments to retrospectives (see the Toyota Kata link below), 
+but we should try the basic process for a while and adapt it as we need.
 
 # References
 
