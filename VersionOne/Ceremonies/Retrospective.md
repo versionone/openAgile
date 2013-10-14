@@ -6,10 +6,6 @@ Adapted from [Retrospectives.com](http://www.retrospectives.com):
 
 > A retrospective is a ritual gathering of a community at the end of an iteration to review the events and learn from the experience. No one knows the whole story of the iteration. Each person has a piece of the story. The retrospective ritual is the collective telling of the story and mining the experience for wisdom.
 
-* Focus on quality at all times.
-* Identify recurrent, systemic problems so they are solved once and for all.
-* Make everyone aware of the problem so anyone who can help, can contribute to fixing it.
-
 ## Who? The Participants
 
 Whole openAgile team. Again, guidance from Retrospectives.com:
