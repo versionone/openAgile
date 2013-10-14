@@ -6,9 +6,11 @@ The Daily Standup Meeting is a [brief meeting](http://martinfowler.com/articles/
 * Identify any **impediments** we're facing that must be removed, and 
 * Highlight what we plan to work on for the coming day (provided our **impediments** get removed!)
 
-## VersionOne [Stand Up / Stand Around](http://blogs.versionone.com/agile_management/2013/04/30/standup-or-standaround/), date uknown:
+## VersionOne Stand Up / Stand Around(http://blogs.versionone.com/agile_management/2013/04/30/standup-or-standaround/)
 
 ![Daily Stand Up](http://blogs.versionone.com/agile_management/wp-content/uploads/sites/3/2013/04/Daily-Standup-Landing-page21.jpg)
+
+More details in this blog post by [VersionOne QA Lead, JoEllen Carter](http://blogs.versionone.com/agile_management/2013/04/30/standup-or-standaround/).
 
 ## Time
 
