@@ -1,5 +1,11 @@
 # Retrospective
 
+## TL;DR
+
+Reflect on how we're doing; commit to improve:
+
+![Retrospective](http://hakanforss.files.wordpress.com/2012/04/slide5_thumb.png?w=644&h=484)
+
 ## Why? The Purpose of the Ceremony
 
 Adapted from [Retrospectives.com](http://www.retrospectives.com):
