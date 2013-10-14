@@ -29,7 +29,7 @@ TODO: add GTM
 
 ## What? The process
 
-Because we have a distributed team, we gather virtually on GTM and open up the [RetrospectiveNotes.md] and paste it into a new Google doc for editing that every team member has edit rights to.
+Because we have a distributed team, we gather virtually on GTM and open up the [RetrospectiveNotes] doc in Google docs, because Google docs allows collaborative, real-time edits by all team members.
 
 * Load http://www.online-stopwatch.com/countdown-timer/ and set the countdown to 3 minutes.
 * Then, we individually reflect on the previous retrospective by reading the notes for 2 minutes. **No verbal discussion is allowed at this time**.
