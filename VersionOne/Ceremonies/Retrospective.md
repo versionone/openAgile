@@ -55,3 +55,4 @@ TODO: add GTM
 # References
 
 * [Sprint Retrospective](http://www.mountaingoatsoftware.com/scrum/sprint-retrospective/)
+* [An augment to retrospectives: Toyota Kata](http://hakanforss.wordpress.com/2012/04/25/agile-lego-toyota-kata-an-alternative-to-retrospectives/)
