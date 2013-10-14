@@ -33,6 +33,7 @@ WIP Limit = 18 cards (yesterday's weather for cards worked in 2 weeks). Not subj
 The Product Owner decides which cards are prioritized for the team to work next. To exit this lane, the card must meet the following criteria:
 
 * Has been the subject of a **[Three Amigos](../Ceremonies/ThreeAmigos.md)** discussion.
+* Has **acceptance criteria** that express what is needed to consider the card done.
 * Has appropriate **specifications**.
   * If it is an enhancement, it has a **scenarios** in a feature file (hyperlinked).
   * If it is a sufficiently complex enhancement to UI, it has a **mockup** (hyperlinked).
@@ -80,3 +81,4 @@ WIP Limit = None. Not subject to board WIP Limit.
 * Should we hold items in tested until they are published in a release? Can Jenkins close items as part of the promotion job? Should it?
 * How do we account for stoptheline? Is it a feature of the Kanban Board or something more (signals in HipChat, email, etc)?
 * GitHub considers Pull Requests as Issues. How can we better account for this? Unsolicited Pull Requests are work. But most of ours are in context of an existing issue. Do we need to account for this on the board?
+* What about estimates? If we need them, I suggest estimates are part of prioirization, so should be exit criteria for `prioritized`.
