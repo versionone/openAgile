@@ -27,7 +27,7 @@ Second Wednesdays from 12:30 - 1:30
 
 TODO: add GTM
 
-## What? The process
+## How? The process
 
 Because we have a distributed team, we gather virtually on GTM and open up the [RetrospectiveNotes] doc in Google docs, because Google docs allows collaborative, real-time edits by all team members.
 
