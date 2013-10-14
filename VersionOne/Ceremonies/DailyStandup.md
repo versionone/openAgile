@@ -10,7 +10,7 @@ The Daily Standup Meeting is a [brief meeting](http://martinfowler.com/articles/
 
 ![Daily Stand Up](http://blogs.versionone.com/agile_management/wp-content/uploads/sites/3/2013/04/Daily-Standup-Landing-page21.jpg)
 
-Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](http://blogs.versionone.com/agile_management/2013/04/30/standup-or-standaround/).
+Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](http://blogs.versionone.com/agile_management/2013/04/30/standup-or-standaround/). She is vertically above her name in the previous sentence :)
 
 ## Time
 
