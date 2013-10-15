@@ -12,11 +12,11 @@ This function is particularly important to us because we may not have touched a 
 
 ## Who? The Participants
 
-Team, stakeholders, and customers.
+The Product Manager invites the team, stakeholders, and customers.
 
 ## When? Frequency and Timing
 
-The meeting is called before starting a new product or when changing direction to work on a different product. We start with 1 hour of orientation and continue with 1 hour sessions as needed.
+The Product Manager calls the meeting before starting a new product or when changing direction to work on a different product. We start with 1 hour of orientation and continue with 1 hour sessions as needed.
 
 We switch no more frequently than every 12 weeks. This helps us:
 
