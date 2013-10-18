@@ -72,7 +72,6 @@ WIP Limit = None. Not subject to board WIP Limit.
 * Can we assume unprioritized means `Needs Review`?
 * Are some issues just tasks? How does a task fit with spec, code, and test? For example, Issue #27 on Three Amigos.
 * There's a conflict for some items that are currently coded but not tested. Issue #7 and #47 both have "Needs Test Spec". Does this indicate a flaw in the workflow? Or just a consequence of retro-actively applying the workflow? In other words, does speced mean a Test Spec (steps to reproduce and an error message)?
-* I realize many Kanban boards have progressive tense (like "developing" or "testing"). I assert that progressive tense leads to sloppy definition of a state (defining it by the activity rather than the result) so I prefer past tense to express more clearly distinguishable states. Does that work for the team?
 * For readability, is it better to have entry or exit criteria?
 * Can we really distinguish between a defect and an enhancement, if there is no specification? Do we care about the difference in the execution of our workflow?
 * What about questions and documentation? How does speced, coded, and tested fit with questions or documentation?
