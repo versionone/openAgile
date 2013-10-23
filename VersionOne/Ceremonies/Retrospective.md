@@ -27,7 +27,7 @@ Whole openAgile team. Again, guidance from Retrospectives.com:
 
 *NOTE*: We are not currently following the third point. How might this affect our process? 
 
-Where?
+## Where?
 
 Use the [openAgile GTM](https://github.com/versionone/openAgile/blob/master/VersionOne/Ceremonies/DailyStandup.md#gotomeeting-info)
 
