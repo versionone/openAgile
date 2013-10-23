@@ -27,11 +27,13 @@ Whole openAgile team. Again, guidance from Retrospectives.com:
 
 *NOTE*: We are not currently following the third point. How might this affect our process? 
 
-TODO: add GTM
+Where?
+
+Use the [openAgile GTM](https://github.com/versionone/openAgile/blob/master/VersionOne/Ceremonies/DailyStandup.md#gotomeeting-info)
 
 ## How? The process
 
-Because we have a distributed team, we gather virtually on GTM and open up the [RetrospectiveNotes] doc in Google docs, because Google docs allows collaborative, real-time edits by all team members.
+Because we have a distributed team, we gather virtually on GTM and open up the [RetrospectiveNotes doc](https://docs.google.com/document/d/10UUyv5NTsjhgUcglRtVDWIdTJXRlc8HdwzQxpVMPpwI/edit?usp=sharing) in Google docs, because Google docs allows collaborative, real-time edits by all team members.
 
 * Load http://www.online-stopwatch.com/countdown-timer/ and set the countdown to 3 minutes.
 * Then, we individually reflect on the previous retrospective by reading the notes for 2 minutes. **No verbal discussion is allowed at this time**.
