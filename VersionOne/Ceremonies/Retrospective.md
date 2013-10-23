@@ -16,6 +16,9 @@ Adapted from [Retrospectives.com](http://www.retrospectives.com):
 
 Second Wednesdays from 12:30 - 1:30
 
+Alpharetta: The Cellar
+
+Remote: Use the [openAgile GTM](https://github.com/versionone/openAgile/blob/master/VersionOne/Ceremonies/DailyStandup.md#gotomeeting-info)
 
 ## Who? The Participants
 
@@ -26,10 +29,6 @@ Whole openAgile team. Again, guidance from Retrospectives.com:
 * Make sure there is a facilitator, someone who was not involved with the project, to lead the ritual.
 
 *NOTE*: We are not currently following the third point. How might this affect our process? 
-
-## Where?
-
-Use the [openAgile GTM](https://github.com/versionone/openAgile/blob/master/VersionOne/Ceremonies/DailyStandup.md#gotomeeting-info)
 
 ## How? The process
 
