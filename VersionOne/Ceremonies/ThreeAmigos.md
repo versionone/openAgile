@@ -9,6 +9,17 @@ Three Amigos is a [collaborative approach to specification](http://www.stickymin
 * Build shared understanding across the team
 * Write testable specifications in a [human readable form](http://martinfowler.com/bliki/BusinessReadableDSL.html) using concrete and specific examples
 
+### Quotes from the StickyMinds article:
+
+> The Three Amigos are the essential stakeholders of the system being developed: The business (or product owner, in Scrum terms), the developer, and the tester. These three represent the viewpoints of what the system is intended to do, what can and cannot be implemented, and what might go wrong or be misunderstood.
+
+> Don't limit yourself to just three stakeholders, however.
+
+> May need to pull in: UX Designers, System Operators, Service Technicians, Sales Team Members, Security Team, etc.
+
+> Only include people who have a stake in the success of the system. Many times there will be multiple programmers and testers on the team. Don't include all the developers and testers in each meeting, as that dilutes the sense of responsibility.
+
+
 ## Who? The Participants
 
 The product owner, a developer, and a tester.
