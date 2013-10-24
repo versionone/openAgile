@@ -44,7 +44,8 @@ Because we have a distributed team, we gather virtually on GTM and open up the [
 * *When it's your turn to put your notes into the document, try to group your items with other like items that already exist.*
 * Finally, reflecting on the assembled notes and conversation, we ask: 
     * **What is one thing we can, as a team, commit to improving during the next two weeks?**
-* Save the Google doc, and change the openAgile channel topic to the team's agreed improvement goal.
+* Save the Google doc, but also create a copy of its current state and prefix it with the date like "2013.10.23"
+* Finally, change the openAgile channel topic to the team's agreed improvement goal.
 
 # Thoughts
 
