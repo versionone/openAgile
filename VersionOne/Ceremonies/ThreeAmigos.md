@@ -37,7 +37,7 @@ Three Amigos is a [collaborative approach to specification](http://www.stickymin
 
 > As each bit of functionality becomes available, you'll want to take a look at it. Does it fulfill the original intent of the functionality? Does it seem reasonable? Does the functionality still seem desirable when you see it in operation? Does the system suggest unintended ways it might be used? If so, do these unintended operations work in a reasonable fashion and give correct answers?
 
-Passing the acceptance tests does not necessarily mean the software is acceptable. That's just the first hurdle to acceptance. The example scenarios envisioned by the Three Amigos before development should cover the expected functionality pretty well, but no one has perfect foresight. It's always best to bring critical thinking to bear after development, also.
+> Passing the acceptance tests does not necessarily mean the software is acceptable. That's just the first hurdle to acceptance. The example scenarios envisioned by the Three Amigos before development should cover the expected functionality pretty well, but no one has perfect foresight. It's always best to bring critical thinking to bear after development, also.
 
 ## Who? The Participants
 
