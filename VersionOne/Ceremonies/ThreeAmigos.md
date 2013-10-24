@@ -33,6 +33,12 @@ Three Amigos is a [collaborative approach to specification](http://www.stickymin
 
 > Turning the examples into automated tests should be a pretty easy chore, depending on how you've expressed those examples and the tools you're using. This is best done prior to implementing the story, but might also be done as work begins on the story. Hooking the example up to drive the code under development may have to wait until the story is a little further along. That's OK. Just hook it up as soon as there's an appropriate place to connect it. This work is often a collaboration between tester and programmer.
 
+#### During Exploratory Testing
+
+> As each bit of functionality becomes available, you'll want to take a look at it. Does it fulfill the original intent of the functionality? Does it seem reasonable? Does the functionality still seem desirable when you see it in operation? Does the system suggest unintended ways it might be used? If so, do these unintended operations work in a reasonable fashion and give correct answers?
+
+Passing the acceptance tests does not necessarily mean the software is acceptable. That's just the first hurdle to acceptance. The example scenarios envisioned by the Three Amigos before development should cover the expected functionality pretty well, but no one has perfect foresight. It's always best to bring critical thinking to bear after development, also.
+
 ## Who? The Participants
 
 The product owner, a developer, and a tester.
