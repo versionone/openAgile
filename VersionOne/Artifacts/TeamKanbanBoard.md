@@ -15,24 +15,35 @@ It's meant to be adopted gradually, and evolved from a team's experience. [Learn
 
 David Anderson's six core practices for using Kanban with software development:
 
-* **Visualise** 
+### **Visualise** 
+
 > The workflow of knowledge work is inherently invisible, so make it visible!
-* **Limit WIP**
+
+### **Limit WIP**
+
 > Limiting work-in-process implies that a pull system is implemented on parts or all of the workflow.
-* **Manage flow** 
+
+### **Manage flow** 
+
 > The flow of work through each state in the workflow should be monitored, measured and reported.
-* **Make policies explicit**
+
+### **Make policies explicit**
+
 > Until the mechanism of a process is made explicit it is often hard or impossible to hold a discussion about improving it.
-* **Implement feedback loops** 
+
+### **Implement feedback loops** 
+
 > Collaboration to review flow of work and demand versus capability measures, metrics and indicators coupled with anecdotal narrative explaining notable events is vital to enabling evolutionary change.
-* **Improve collaboratively, evolve experimentally**
+
+### **Improve collaboratively, evolve experimentally**
+
 > Use models and the scientific method to pursue small, continuous, incremental and evolutionary changes that stick. 
 
-# Kanban Board
+# Practicing the practices
 
-## Board
+## Visualise: The Kanban Board
 
-WIP Limit = 9 Cards (derived from 1.5 x team size).
+TODO: move this to LIMIT WIP section: WIP Limit = 9 Cards (derived from 1.5 x team size).
 
 ## Issue States
 
@@ -50,17 +61,25 @@ The Product Owner closes cards. Cards are removed from the Kanban Board when the
 
 ### 0 - Unprioritized
 
-All cards enter the board as unprioritized work. To exit this lane, the card must meet the following criteria:
+All cards enter the board as unprioritized work. Cards may be entered by anyone, though usually they are entered in collaboration with the Product Owner.
+
+Before the Product Owner will move a card from **Unprioritized** to **Prioritized**, the card must meet these criteria:
 
 * Has a **descritive and specific title**.
 * Has a description from the **user perspective**.
 * Has been **tagged** as enhancement, defect, or question.
 
-WIP Limit = 18 cards (yesterday's weather for cards worked in 2 weeks). Not subject to board WIP Limit.
+TODO revise this: WIP Limit = 18 cards (yesterday's weather for cards worked in 2 weeks). Not subject to board WIP Limit.
 
 ### 1 - Prioritized
 
-The Product Owner decides which cards are prioritized for the team to work next. To exit this lane, the card must meet the following criteria:
+Cards that are in this state have been prioritized by the Product Owner. The prioritization process is not done **in an ivory tower** without the team or other important people participating, but ultimately it is the Product Owner's doing to move the card.
+
+TODO: does something have to already have "3 amigoed" before going into In Progress? Seems like that should really be the first step **after getting pulled into In Progress**, OR is it something that has to happen before a card can be correctly *Prioritized*?
+
+TODO: below is subject to question above:
+
+For a team member to pull an item out of **Prioritized** into **In Progress**, the card must meet the following criteria:
 
 * Has been the subject of a **[Three Amigos](../Ceremonies/ThreeAmigos.md)** discussion.
 * Has **acceptance criteria** that express what is needed to consider the card done.
@@ -71,6 +90,19 @@ The Product Owner decides which cards are prioritized for the team to work next.
   * If it is a defect, it includes an **error message or screen shot** of the invalid state.
 
 WIP Limit = None. Subject to board WIP Limit.
+
+### In Progress
+
+### Ready to Test
+
+### In Test
+
+### Tested
+
+## Delivered
+
+
+# NOTE: old
 
 ### 2 - Speced
 
