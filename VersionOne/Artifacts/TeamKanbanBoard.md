@@ -2,7 +2,7 @@
 
 Kanban, as applied to software development, is not a perfect discipline. 
 
-It's meant to be adopted gradually, and evolved from a team's experience. [Learn the basics here](http://en.wikipedia.org/wiki/Kanban_(development)).
+It's meant to be adopted gradually, and evolved from a team's experience. [Learn the basics here](http://en.wikipedia.org/wiki/Kanban_((development))).
 
 ## Four basic principles
 
