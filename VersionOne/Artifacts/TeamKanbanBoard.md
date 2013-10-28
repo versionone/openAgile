@@ -15,12 +15,18 @@ It's meant to be adopted gradually, and evolved from a team's experience. [Learn
 
 David Anderson's six core practices for using Kanban with software development:
 
-* **Visualise** -- the workflow of knowledge work is inherently invisible. 
-* **Limit WIP** -- limiting work-in-process implies that a pull system is implemented on parts or all of the workflow.ant. The critical elements are that work-in-process at each state in the workflow is limited and that new work is “pulled” into the new information discovery activity when there is available capacity within the local WIP limit.
-* **Manage flow** -- the flow of work through each state in the workflow should be monitored, measured and reported.
-* **Make policies explicit** -- Until the mechanism of a process is made explicit it is often hard or impossible to hold a discussion about improving it.
-* **Implement feedback loops** -- collaboration to review flow of work and demand versus capability measures, metrics and indicators coupled with anecdotal narrative explaining notable events is vital to enabling evolutionary change.
-* **Improve collaboratively, evolve experimentally** -- use models and the scientific method to pursue small, continuous, incremental and evolutionary changes that stick. 
+* **Visualise** 
+> The workflow of knowledge work is inherently invisible, so make it visible!
+* **Limit WIP**
+> Limiting work-in-process implies that a pull system is implemented on parts or all of the workflow.
+* **Manage flow** 
+> The flow of work through each state in the workflow should be monitored, measured and reported.
+* **Make policies explicit**
+> Until the mechanism of a process is made explicit it is often hard or impossible to hold a discussion about improving it.
+* **Implement feedback loops** 
+> Collaboration to review flow of work and demand versus capability measures, metrics and indicators coupled with anecdotal narrative explaining notable events is vital to enabling evolutionary change.
+* **Improve collaboratively, evolve experimentally**
+> Use models and the scientific method to pursue small, continuous, incremental and evolutionary changes that stick. 
 
 # Kanban Board
 
