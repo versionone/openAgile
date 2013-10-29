@@ -107,9 +107,12 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * Are there any remaining uncertainties about that we want to spike on?
   * Should we take the output from this particular spike and procede to fully developing it?
     * If no, then what's our next step?
-* **Developing the real feature in close collaboration with the tester, support team, PO, and early access users**   * Once development moves from 'spike' to 'real', it does not mean that collaboration stops! It does mean this:
+* **Developing the real feature in close collaboration with the tester, support team, PO, and early access users** 
+  * Once development moves from 'spike' to 'real', it does not mean that collaboration stops! It does mean this:
     * The level of Specification is sufficient for the type of work item and is agreed upon by the dev, tester, P.O., and other stakeholders who are involved with this item (think: Support Team Member, User)
-      * For some enhancements, this may mean the team agrees that the **scenarios** in the feature file will become automated tests. For others, it may mean that they will be manually tested. But, in either case, the scenarios are understood and agreed upon.
+      * For some enhancements: the team agrees that the **scenarios** in the feature file will become automated tests. 
+      * For others, they will be manually tested. 
+      * In either case, the scenarios are understood and agreed upon.
 * **Proactively testing the real feature** --  The Dev and Tester should be collaborating closely. 
   * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev
   * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
