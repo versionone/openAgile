@@ -18,13 +18,7 @@ Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](htt
 
 ## GoToMeeting Info:
 
-> Meeting ID: 754-347-648 
-
-> Web Address: https://www1.gotomeeting.com/join/754347648
-
-> Phone Number: 1 (619) 550-0000
-
-> Phone Access Code: 754-347-648
+[See Standard GoToMeeting](StandardGoToMeeting.md)
 
 # Meeting Goals
 
