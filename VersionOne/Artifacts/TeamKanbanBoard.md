@@ -91,7 +91,8 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
 * **[Having Three Amigos sessions](../Ceremonies/ThreeAmigos.md)**
   * Typical flow: If you are a Dev, then you pulled the card and you should schedule the first session with the tester and P.O. as close to pulling as possible.
   * Additional sessions: anyone can prompt or schedule additional sessions throughout a card's **In Progress** state when necessary for further collaboration and understanding.
-    * Remember that a Three Amigos sessions is not limited to "Dev, Tester, P.O.", but can and should include other people (like Sales, Product Specialist, Support, Users, etc) when the specific situation calls for it. **It's very similar to what Eric Evans calls Knowledge Crunching in the blue DDD book and later termed "Model Exploration". A picture of the process looks like this: ![WhirlPoolProcess.png](WhirlPoolProcess.png)
+    * Remember that a Three Amigos sessions is not limited to "Dev, Tester, P.O.", but can and should include other people (like Sales, Product Specialist, Support, Users, etc) when the specific situation calls for it.    
+    * It's very similar to what Eric Evans calls Knowledge Crunching in the blue DDD book and later termed "Model Exploration". A picture of the process looks like this: ![WhirlPoolProcess.png](WhirlPoolProcess.png)
 * **Outlining Acceptance Criteria** -- expressions of what is needed to consider the card DONE. These can start as very simple sentences or notes. Don't get caught up on lack of formality. Instead, have a conversation with the person who wrote them to refine them into true Specifications:
 * **Refining Acceptance Criteria into Specifications by Example** -- 
   * If the card is an enhancement, it has a **scenarios** section in a feature file (hyperlinked).
@@ -99,22 +100,22 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * If the card is a defect:
     * It has **steps to reproduce**.
     * It includes an **error message or screen shot** of the invalid state.
-* **Designing 'spikes' and higher fidelity prototypes** -- early on in a card's **In Progress** state, it is perfectly acceptable and encouraged to work on a 'spike' version of the solution, and then have another Three Amigos session and focus on some feedback-generatig questions like:
+* **Designing 'spikes' and higher fidelity prototypes** -- early on in a card's **In Progress** state, it is perfectly acceptable and encouraged to work on a 'spike' version of the solution, and then have another Three Amigos session and focus on some feedback-generating questions like:
   * How is the UX and Usability so far? 
     * Do we need Matt or Sarah to help us?
   * Is this spike progressing toward the Acceptance Criteria? 
     * Does the spike inform and change the Acceptance Criteria now?
   * Are there any remaining uncertainties about that we want to spike on?
-  * Should we take the output from this particular spike and procede to fully developing it?
+  * Should we take the output from this particular spike and proceed to fully developing it?
     * If no, then what's our next step?
-* **Developing the real feature in close collaboration with the tester, support team, PO, and early access users** 
+* **Developing the real feature -- Close collaboration between Dev, Tester, Support Team, PO, and even Early  Access Users** 
   * Once development moves from 'spike' to 'real', it does not mean that collaboration stops! It does mean this:
-    * The level of Specification is sufficient for the type of work item and is agreed upon by the dev, tester, P.O., and other stakeholders who are involved with this item (think: Support Team Member, User)
+    * The level of Specification is sufficient for the type of work item and is agreed upon by the dev, tester, P.O., and other stakeholders who are involved with this item (think: Support Team Member, Users)
       * For some enhancements: the team agrees that the **scenarios** in the feature file will become automated tests. 
       * For others, they will be manually tested. 
       * In either case, the scenarios are understood and agreed upon.
 * **Proactively testing the real feature** --  The Dev and Tester should be collaborating closely. 
-  * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev
+  * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev, and potentially with other people.
   * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
 
 
