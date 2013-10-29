@@ -81,32 +81,59 @@ TODO: WIP Limit = None. Subject to board WIP Limit.
 
 A team member pulls a card out of the **Prioritzed** queue and into the **In Progress** lane.
 
-When a card is **In Progress**, all kinds of collaborative activities happen that are specific and necessary for that card. The exact activities will **vary from card to card, and that's why it is a collaborative process, not a throw-over-the-wall process**. 
+When a card is **In Progress**, all kinds of collaborative activities happen that are specific and necessary for that card. The exact activities will **vary from card to card, and that's why it is a collaborative process, not a throw-over-the-wall process**. The team must collaborate and communicate regularly to decide what the activities are.
 
 #### In Progress activities:
 
-* **[Having Three Amigos sessions](../Ceremonies/ThreeAmigos.md)** -- typically best if done as close to pulling as possible, and done throughout the **In Progress** state when necessary for further collaboration and understanding
-* **Writing Acceptance Criteria** -- expressions of what is needed to consider the card DONE
+* **[Having Three Amigos sessions](../Ceremonies/ThreeAmigos.md)**
+  * Typical flow: You, as the Dev who pulled the card will schedule the first session with the tester and P.O. as close to pulling as possible.  
+  * Addition sessions: anyone can prompt or schedule additional sessions throughout a card's **In Progress** state when necessary for further collaboration and understanding.
+    * Remember that a Three Amigos sessions is not limited to "Dev, Tester, P.O.", but can and should include other people (like Sales, Product Specialist, Support, Users, etc) when the specific situation calls for it. **It's very similar to what Eric Evans calls Knowledge Crunching in the blue DDD book and later termed "Model Exploration". A picture of the process looks like this: ![WhirlPoolProcess.png](WhirlPoolProcess.png)
+* **Writing Acceptance Criteria** -- expressions of what is needed to consider the card DONE. These can start as very simple sentences or notes. Don't get caught up on lack of formality. Instead, have a conversation with the person who wrote them to refine them into true Specifications:
 * **Creating and refining Specifications** -- 
-  * If the card is an enhancement, it has a **scenarios** in a feature file (hyperlinked).
+  * If the card is an enhancement, it has a **scenarios** section in a feature file (hyperlinked).
   * If the card is a sufficiently complex enhancement to UI, it has a **mockup** (hyperlinked).
   * If the card is a defect:
     * It has **steps to reproduce**.
     * It includes an **error message or screen shot** of the invalid state.
-* **Designing 'spikes' and higher fidelity prototypes**
-* **Exploratory and usability testing of spikes**
-* **Developing the 'real' feature in collaboration with the tester and users** 
+* **Designing 'spikes' and higher fidelity prototypes** -- early on in a card's **In Progress** state, it is perfectly acceptable and encouraged to work on a 'spike' version of the solution, and then have another Three Amigos session to get different types of feedback, like:
+  * UX and Usability feedback
+  * Is it progressing toward the Acceptance Criteria? Does the spike inform and change the Acceptance Criteria now?
+  * What is the next 
+* **Developing the 'real' feature in close collaboration with the tester, support team, PO, and early access users** 
+  * Once development moves from 'spike' to 'real', it does not mean that collaboration stops! It does mean this:
+    * The level of Specification is sufficient for the type of work item and is agreed upon by the dev, tester, P.O., and other stakeholders who are involved with this item (think: Support Team Member, User)
+      * For some enhancements, this may mean the team agrees that the **scenarios** in the feature file will become automated tests. For others, it may mean that they will be manually tested. But, in either case, the scenarios are understood and agreed upon.
+  * While developing the real feature, the Dev and Tester should be collaborating closely. It doesn't necessarily mean spending the whole day side-by-side, but should mean:
+    * When a Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev
+    * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
 
-### Ready to Test
+### Ready for Full Test
 
-### In Test
+A Tester pulls an item from **In Progress** to the **Ready for System Test** state when they feel like the collaborative testing done with the Dev during **In Progress** is complete, and that the item can be tested end-to-end with a high likelihood of no additional rework. 
+
+### In Full Test
+
+A Tester pulls from the **Ready for System Test** when ready to engage the full suite of tests against the item, including:
+
+* Running any automated tests
+* Doing manual, exploratory tests
+* Evaluating usability
+* Testing with the P.O. and Early Access Users (Same as User Acceptance Testing?)
+* Testing with other stakeholders (Support, Product Specialists?)
+
+If the item fails during any of these tests, then it must go back to **In Progress** to work out the problem.
 
 ### Tested
 
+If an item makes it through the **In Full Test** state, then the Tester moves it to **Tested**. This is a signal that the item is ready for delivery.
+
 ## Delivered
 
+TODO
 
-# NOTE: old
+
+# NOTE: old notes below
 
 ### 2 - Speced
 
