@@ -85,12 +85,15 @@ When a card is **In Progress**, all kinds of collaborative activities happen tha
 
 #### In Progress activities:
 
+**NOTE:** The activities below represent an idealized linear flow, but it's important to know that there is often 
+significant back-and-forth motion. That's fine -- that's what it takes to collaborate and iteratively develop the right thing (and develop the thing right).
+
 * **[Having Three Amigos sessions](../Ceremonies/ThreeAmigos.md)**
   * Typical flow: If you are a Dev, then you pulled the card and you should schedule the first session with the tester and P.O. as close to pulling as possible.
   * Additional sessions: anyone can prompt or schedule additional sessions throughout a card's **In Progress** state when necessary for further collaboration and understanding.
     * Remember that a Three Amigos sessions is not limited to "Dev, Tester, P.O.", but can and should include other people (like Sales, Product Specialist, Support, Users, etc) when the specific situation calls for it. **It's very similar to what Eric Evans calls Knowledge Crunching in the blue DDD book and later termed "Model Exploration". A picture of the process looks like this: ![WhirlPoolProcess.png](WhirlPoolProcess.png)
-* **Writing Acceptance Criteria** -- expressions of what is needed to consider the card DONE. These can start as very simple sentences or notes. Don't get caught up on lack of formality. Instead, have a conversation with the person who wrote them to refine them into true Specifications:
-* **Creating and refining Specifications** -- 
+* **Outlining Acceptance Criteria** -- expressions of what is needed to consider the card DONE. These can start as very simple sentences or notes. Don't get caught up on lack of formality. Instead, have a conversation with the person who wrote them to refine them into true Specifications:
+* **Refining Acceptance Criteria into Specifications by Example** -- 
   * If the card is an enhancement, it has a **scenarios** section in a feature file (hyperlinked).
   * If the card is a sufficiently complex enhancement to UI, it has a **mockup** (hyperlinked).
   * If the card is a defect:
@@ -104,13 +107,13 @@ When a card is **In Progress**, all kinds of collaborative activities happen tha
   * Are there any remaining uncertainties about that we want to spike on?
   * Should we take the output from this particular spike and procede to fully developing it?
     * If no, then what's our next step?
-* **Developing the 'real' feature in close collaboration with the tester, support team, PO, and early access users** 
-  * Once development moves from 'spike' to 'real', it does not mean that collaboration stops! It does mean this:
+* **Developing the real feature in close collaboration with the tester, support team, PO, and early access users**   * Once development moves from 'spike' to 'real', it does not mean that collaboration stops! It does mean this:
     * The level of Specification is sufficient for the type of work item and is agreed upon by the dev, tester, P.O., and other stakeholders who are involved with this item (think: Support Team Member, User)
       * For some enhancements, this may mean the team agrees that the **scenarios** in the feature file will become automated tests. For others, it may mean that they will be manually tested. But, in either case, the scenarios are understood and agreed upon.
-  * While developing the real feature, the Dev and Tester should be collaborating closely. It doesn't necessarily mean spending the whole day side-by-side, but should mean:
-    * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev
-    * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
+* **Proactively testing the real feature** --  The Dev and Tester should be collaborating closely. 
+  * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev
+  * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
+
 
 ### Ready for Full Test
 
