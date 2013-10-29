@@ -75,23 +75,27 @@ TODO revise this: WIP Limit = 18 cards (yesterday's weather for cards worked in 
 
 Cards that are in this state have been prioritized by the Product Owner. The prioritization process is not done **in an ivory tower** without the team or other important people participating, but ultimately it is the Product Owner's doing to move the card.
 
-TODO: does something have to already have "3 amigoed" before going into In Progress? Seems like that should really be the first step **after getting pulled into In Progress**, OR is it something that has to happen before a card can be correctly *Prioritized*?
-
-TODO: below is subject to question above:
-
-For a team member to pull an item out of **Prioritized** into **In Progress**, the card must meet the following criteria:
-
-* Has been the subject of a **[Three Amigos](../Ceremonies/ThreeAmigos.md)** discussion.
-* Has **acceptance criteria** that express what is needed to consider the card done.
-* Has appropriate **specifications**.
-  * If it is an enhancement, it has a **scenarios** in a feature file (hyperlinked).
-  * If it is a sufficiently complex enhancement to UI, it has a **mockup** (hyperlinked).
-  * If it is a defect, it has **steps to reproduce**.
-  * If it is a defect, it includes an **error message or screen shot** of the invalid state.
-
-WIP Limit = None. Subject to board WIP Limit.
+TODO: WIP Limit = None. Subject to board WIP Limit.
 
 ### In Progress
+
+A team member pulls a card out of the **Prioritzed** queue and into the **In Progress** lane.
+
+When a card is **In Progress**, all kinds of collaborative activities happen that are specific and necessary for that card. The exact activities will **vary from card to card, and that's why it is a collaborative process, not a throw-over-the-wall process**. 
+
+#### In Progress activities:
+
+* **[Having Three Amigos sessions](../Ceremonies/ThreeAmigos.md)** -- typically best if done as close to pulling as possible, and done throughout the **In Progress** state when necessary for further collaboration and understanding
+* **Writing Acceptance Criteria** -- expressions of what is needed to consider the card DONE
+* **Creating and refining Specifications** -- 
+  * If the card is an enhancement, it has a **scenarios** in a feature file (hyperlinked).
+  * If the card is a sufficiently complex enhancement to UI, it has a **mockup** (hyperlinked).
+  * If the card is a defect:
+    * It has **steps to reproduce**.
+    * It includes an **error message or screen shot** of the invalid state.
+* **Designing 'spikes' and higher fidelity prototypes**
+* **Exploratory and usability testing of spikes**
+* **Developing the 'real' feature in collaboration with the tester and users** 
 
 ### Ready to Test
 
