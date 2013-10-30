@@ -1,60 +1,78 @@
 # The Big Picture (the problem in need of solution process)
 
-Per Ian Buchnan:
+There are **Three Major Buckets** in order of highest priority to Ian:
 
-# Three Major Buckets, in order of highest priority to Ian
+# Community
 
-## Community
-
-### Overview
+## Overview
 
 Ian:
 
-> Community comes from many channels, including:
+> Community comes from many channels, and they all matter!
 
-#### ZenDesk for User Support tickets
+## ZenDesk
 
-##### Usages:
+### Usages:
 
-* User support tickets
+* Community members submit support tickets here
+* V1 Support Team and Developers answer tickets
 
-#### StackOverflow 
+## StackOverflow 
 
-##### Usages:
+### Usages:
 
-* User questions
-* Knowledge sharing and How-Tos
+* Community members ask technical questions here
+* Community members ask for alternatives and product comparisons from their peers here
+* We, and community members, document technical "How-Tos" and link to code samples located in GitHub
 
-#### Google Groups for Threaded Discussions
+## Google Groups
+
+### Usages:
+
+* Community members, and VersionOne employees, enage in threaded discussions
+
+## GitHub
+
+### Usages:
+
+* We, and other community members, host open source code related to VersionOne here
+* Community member can submit pull-requests to projects
+* Community members can file issues against projects
+## IdeaSpace
+
+### Usages:
+
+* Users submit ideas for product improvements, including for API and integrations
+
+## Mindtouch
+
+### Usages:
+
+* V1 employees provide official VersionOne help and technical documentation here
+* Ian creates glossary items of technical terms related to APIs and Platform
 
 
+# Platform
 
-
-## Platform
-
-### Overview
+## Overview
 
 Ian: 
 
 > We take 1 at a time to update and improve.
 
-### App Catalog 
+## App Catalog 
 
-### Commit Service
+## Commit Service
 
 
-## Integrations
+# Integrations
 
-### Overview
+## Overview
 
 Ian: 
 
 > We take 1 at a time to update and improve.
 
+## VersionOne Visual Studio Client
 
-
-f we want long running buckets with a rule for how to prioritize across them,
-I would say they are: "Integrations" (where we take 1 at a time to update and improve),
-"Platform" (things like App Catalog and Commit Service, that we take 1 at a time to update and improve),
-and "Community" (which comes in from many channels, including Zendesk, Stack Overflow, Google Groups, GitHib, IdeaSpace, and Mindtouch; and must be serviced more "on-demand" than planned in iterations).
-And my priorities would be: 1. Community, 2. Platform, and 3. Integrations.
+## etc... (List in priority order)
