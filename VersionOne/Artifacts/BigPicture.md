@@ -6,7 +6,7 @@ Ian's challenge:
 
 >  We have multiple needs that need to be worked at the same time. Some is just what we've been doing on VS Client...How do I feed those queues and know they will all get worked?
 
-# Community
+# 1) Community
 
 ## Overview
 
@@ -54,7 +54,7 @@ Ian says: *Community comes from many channels, and must be serviced more "on-dem
 * Ian creates glossary items of technical terms related to APIs and Platform
 
 
-# Platform
+# 2) Platform
 
 ## Overview
 
@@ -65,7 +65,7 @@ Ian states: *We take 1 at a time to update and improve.*
 ## Commit Service
 
 
-# Integrations
+# 3) Integrations
 
 ## Overview
 
