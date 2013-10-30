@@ -2,13 +2,17 @@
 
 There are **Three Major Buckets** in order of highest priority to Ian:
 
+Ian's challenge:
+
+>  We have multiple needs that need to be worked at the same time. Some is just what we've been doing on VS Client...How do I feed those queues and know they will all get worked?
+
 # Community
 
 ## Overview
 
 Ian:
 
-> Community comes from many channels, and they all matter!
+> Community comes from many channels, and must be serviced more "on-demand" than planned in iterations.
 
 ## ZenDesk
 
