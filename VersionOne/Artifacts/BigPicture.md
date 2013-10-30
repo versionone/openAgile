@@ -25,7 +25,7 @@ Ian says: *Community comes from many channels, and must be serviced more "on-dem
 
 * Community members ask technical questions here
 * Community members ask for alternatives and product comparisons from their peers here
-* We, and community members, document technical "How-Tos" and link to code samples located in GitHub
+* V1 Team, and community members, document technical "How-Tos" and link to code samples located in GitHub
 
 ## Google Groups
 
@@ -37,7 +37,7 @@ Ian says: *Community comes from many channels, and must be serviced more "on-dem
 
 ### Usages:
 
-* We, and other community members, host open source code related to VersionOne here
+* V1 Team, and other community members, host open source code related to VersionOne here
 * Community member can submit pull-requests to projects
 * Community members can file issues against projects
 ## IdeaSpace
@@ -50,7 +50,7 @@ Ian says: *Community comes from many channels, and must be serviced more "on-dem
 
 ### Usages:
 
-* V1 employees provide official VersionOne help and technical documentation here
+* V1 Team provides official VersionOne help and technical documentation here
 * Ian creates glossary items of technical terms related to APIs and Platform
 
 
