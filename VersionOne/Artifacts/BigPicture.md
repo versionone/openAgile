@@ -10,9 +10,7 @@ Ian's challenge:
 
 ## Overview
 
-Ian:
-
-> Community comes from many channels, and must be serviced more "on-demand" than planned in iterations.
+Ian says: *Community comes from many channels, and must be serviced more "on-demand" than planned in iterations.*
 
 ## ZenDesk
 
@@ -60,9 +58,7 @@ Ian:
 
 ## Overview
 
-Ian: 
-
-> We take 1 at a time to update and improve.
+Ian states: *We take 1 at a time to update and improve.*
 
 ## App Catalog 
 
@@ -73,9 +69,7 @@ Ian:
 
 ## Overview
 
-Ian: 
-
-> We take 1 at a time to update and improve.
+Ian states: *We take 1 at a time to update and improve.*
 
 ## VersionOne Visual Studio Client
 
