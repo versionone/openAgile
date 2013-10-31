@@ -40,6 +40,7 @@ Ian says: *Community comes from many channels, and must be serviced more "on-dem
 * V1 Team, and other community members, host open source code related to VersionOne here
 * Community member can submit pull-requests to projects
 * Community members can file issues against projects
+
 ## IdeaSpace
 
 ### Usages:
@@ -59,6 +60,8 @@ Ian says: *Community comes from many channels, and must be serviced more "on-dem
 ## Overview
 
 Ian states: *We take 1 at a time to update and improve.*
+
+## Query.V1
 
 ## App Catalog 
 
