@@ -1,3 +1,21 @@
+# Helpful Articles
+
+* The Lean of Scrum: http://msdn.microsoft.com/en-us/library/vstudio/jj161049.aspx
+* Why You Need a Hybrid System: http://www.netobjectives.com/blogs/why-you-need-hybrid-system
+* Why Contrasting Scrum and Kanban belies a lack of understanding of both: http://uberconf.com/blog/alan_shalloway/2013/07/why_contrasting_scrumban_and_kanban_belies_a_lack_of_understanding_of_both
+* From Scrum to Lean: http://net.tutsplus.com/articles/editorials/from-scrum-to-lean/
+* Testers and Developers Think Differently: http://www.stickyminds.com/sitewide.asp?ObjectId=2291&Function=edetail&ObjectType=ART
+* Manual Cucumber Tests?: http://technicaldebt.com/?p=1229
+
+# Videos
+
+[Lean from the Trenches](http://vimeo.com/55014114) (1 h)
+
+# Related Books
+
+[Lean from the Trenches](http://pragprog.com/book/hklean/lean-from-the-trenches) -- H. Kniberg
+
+
 # Caution: WIP
 
 Kanban, as applied to software development, is not a perfect discipline. 
