@@ -139,7 +139,7 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
 
 
-### Ready for User Acceptance Test (UAT)
+### Ready for UAT (User Acceptance Test)
 
 The Tester pulls an item from **In Progress** to the **Ready for UAT** state when they feel like the collaborative testing done with the Dev (and larger team) during **In Progress** is complete, and that the item can be tested end-to-end with a *95% chance of no additional work* by the end users and other stakeholders.
 
