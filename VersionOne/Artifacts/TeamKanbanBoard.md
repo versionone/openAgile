@@ -139,25 +139,29 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
 
 
-### Ready for Full Test
+### Ready for User Acceptance Test (UAT)
 
-The Tester pulls an item from **In Progress** to the **Ready for System Test** state when they feel like the collaborative testing done with the Dev (and larger team) during **In Progress** is complete, and that the item can be tested end-to-end with a *95% chance of no additional work*. 
+The Tester pulls an item from **In Progress** to the **Ready for UAT** state when they feel like the collaborative testing done with the Dev (and larger team) during **In Progress** is complete, and that the item can be tested end-to-end with a *95% chance of no additional work* by the end users and other stakeholders.
 
-### In Full Test
+### In UAT
 
-The Tester pulls from the **Ready for System Test** when ready to engage the full suite of tests against the item, including:
+The Tester pulls from the **Ready for UAT** when ready to engage the full suite of tests against the item, including:
 
 * Running any automated tests
 * Doing manual, exploratory tests
 * Evaluating usability
-* Testing with the P.O. and Early Access Users (Same as User Acceptance Testing?)
-* Testing with other stakeholders (Support, Product Specialists?)
+* Testing with the Product Owner and representatives from one or more of the following groups:
+  * Early Access Users
+  * VersionOne Support
+  * VersionOne Product Specialists
+  * VersionOne Sales Team
+  * Other stakeholders as identified
 
 If the item fails during any of these tests, then it must go back to **In Progress** to work out the problem.
 
 ### Tested
 
-If an item makes it through the **In Full Test** state, then the Tester moves it to **Tested**. This is a signal that the item is ready for delivery.
+If an item makes it through the **In UAT** state, then the Tester moves it to **Tested**. This is a signal that the item is ready for delivery.
 
 ## Delivered
 
