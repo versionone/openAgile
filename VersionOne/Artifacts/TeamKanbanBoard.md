@@ -5,15 +5,17 @@
 * Why Contrasting Scrum and Kanban belies a lack of understanding of both: http://uberconf.com/blog/alan_shalloway/2013/07/why_contrasting_scrumban_and_kanban_belies_a_lack_of_understanding_of_both
 * From Scrum to Lean: http://net.tutsplus.com/articles/editorials/from-scrum-to-lean/
 * Testers and Developers Think Differently: http://www.stickyminds.com/sitewide.asp?ObjectId=2291&Function=edetail&ObjectType=ART
+* List of all Visual Studio ALM Virtual Machines: http://blogs.msdn.com/b/briankel/archive/2013/04/17/list-of-all-visual-studio-alm-virtual-machines.aspx
 * Manual Cucumber Tests?: http://technicaldebt.com/?p=1229
 
 # Videos
 
-[Lean from the Trenches](http://vimeo.com/55014114) (1 h)
+* [Lean from the Trenches](http://vimeo.com/55014114) (1 h)
+* [Creating Robust Coded UI Tests in Visual Studio](http://channel9.msdn.com/Events/TechEd/Europe/2012/DEV312#formats) (1.25 h)
 
 # Related Books
 
-[Lean from the Trenches](http://pragprog.com/book/hklean/lean-from-the-trenches) -- H. Kniberg
+* [Lean from the Trenches](http://pragprog.com/book/hklean/lean-from-the-trenches) -- H. Kniberg
 
 
 # Caution: WIP
