@@ -14,7 +14,7 @@ Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](htt
 
 ## Time
 
-10:30 AM EST - 10:45 AM EST on Monday - Friday
+10:00 AM EST - 10:15 AM EST on Monday - Friday
 
 ## GoToMeeting Info:
 
