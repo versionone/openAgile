@@ -97,20 +97,20 @@ Cards that are in this state have been prioritized by the Product Owner. The pri
 
 TODO: WIP Limit = None. Subject to board WIP Limit.
 
-### In Progress
+### In Dev
 
-If you are a Dev, it's your responsibility to pull a card out of the **Prioritzed** queue and into the **In Progress** lane.
+If you are a devekioer, it's your responsibility to pull a card out of the **Prioritzed** queue and into the **In Dev** lane.
 
-When a card is **In Progress**, all kinds of collaborative activities happen that are specific and necessary for that card. The exact activities will **vary from card to card, and that's why it is a collaborative process, not a throw-over-the-wall process**. The team must collaborate and communicate regularly to decide what the activities are.
+When a card is **In Dev**, all kinds of collaborative activities happen that are specific and necessary for that card. The exact activities will **vary from card to card, and that's why it is a collaborative process, not a throw-over-the-wall process**. The team must collaborate and communicate regularly to decide what the activities are.
 
-#### In Progress activities:
+#### In Dev activities:
 
 **NOTE:** The activities below represent an idealized linear flow, but it's important to know that there is often 
 significant back-and-forth motion. That's fine -- that's what it takes to collaborate and iteratively develop the right thing (and develop the thing right).
 
 * **[Having Three Amigos sessions](../Ceremonies/ThreeAmigos.md)**
   * Typical flow: If you are a Dev, then you pulled the card and you should schedule the first session with the tester and P.O. as close to pulling as possible.
-  * Additional sessions: anyone can prompt or schedule additional sessions throughout a card's **In Progress** state when necessary for further collaboration and understanding.
+  * Additional sessions: anyone can prompt or schedule additional sessions throughout a card's **In Dev** state when necessary for further collaboration and understanding.
     * Remember that a Three Amigos sessions is not limited to "Dev, Tester, P.O.", but can and should include other people (like Sales, Product Specialist, Support, Users, etc) when the specific situation calls for it.    
     * It's very similar to what Eric Evans calls Knowledge Crunching in the blue DDD book and later termed "Model Exploration". A picture of the process looks like this: ![WhirlPoolProcess.png](WhirlPoolProcess.png)
 * **Outlining Acceptance Criteria** -- expressions of what is needed to consider the card DONE. These can start as very simple sentences or notes. Don't get caught up on lack of formality. Instead, have a conversation with the person who wrote them to refine them into true Specifications:
@@ -120,7 +120,7 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * If the card is a defect:
     * It has **steps to reproduce**.
     * It includes an **error message or screen shot** of the invalid state.
-* **Designing 'spikes' and higher fidelity prototypes** -- early on in a card's **In Progress** state, it is perfectly acceptable and encouraged to work on a 'spike' version of the solution, and then have another Three Amigos session and focus on some feedback-generating questions like:
+* **Designing 'spikes' and higher fidelity prototypes** -- early on in a card's **In Dev** state, it is perfectly acceptable and encouraged to work on a 'spike' version of the solution, and then have another Three Amigos session and focus on some feedback-generating questions like:
   * How is the UX and Usability so far? 
     * Do we need Matt or Sarah to help us?
   * Is this spike progressing toward the Acceptance Criteria? 
@@ -138,16 +138,36 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev, and potentially with other people.
   * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
 
+### Ready for Test (ready for Carlena)
+
+When a developer who has pulled an item into **In Dev** feels the item is ready for Carlena to test, the developer
+places the card in ready for test. Next:
+
+* Carlena and the developer, at minimum, will arrange an overview GTM session
+* Carlena will accept the item after the demo, or it will be placed back in **In Dev** if there is something wrong that 
+is easily identified during the overview demo.
+
+### In Test
+
+When Carlena is actively testing an item, she will pull it from **Ready for Test** and place it into this lane.
+
+During this state, Carlena will be:
+
+* Performing Test Cases as specified in VersionOne
+* Working with the developer to create Automated Tests where appropriate
+  * Running the Automated Tests and ensuring that they run in the Jenkins build
+* Identifying new Test Cases and adding them to VersionOne
+* Filing new Defects against the items in VersionOne
 
 ### Ready for UAT (User Acceptance Test)
 
-The Tester pulls an item from **In Progress** to the **Ready for UAT** state when they feel like the collaborative testing done with the Dev (and larger team) during **In Progress** is complete, and that the item can be tested end-to-end with a *95% chance of no additional work* by the end users and other stakeholders.
+If an item makes it through the **In Test** state, Carlena will place it into **Ready for UAT**, indicating that it is
+ready for additional User Acceptance Testing by a larger audience.
 
 ### In UAT
 
-The Tester pulls from the **Ready for UAT** when ready to engage the full suite of tests against the item, including:
+The goal of a UAT session is to exercise the user stories through additional tests
 
-* Running any automated tests
 * Doing manual, exploratory tests
 * Evaluating usability
 * Testing with the Product Owner and representatives from one or more of the following groups:
@@ -157,16 +177,11 @@ The Tester pulls from the **Ready for UAT** when ready to engage the full suite 
   * VersionOne Sales Team
   * Other stakeholders as identified
 
-If the item fails during any of these tests, then it must go back to **In Progress** to work out the problem.
+If the item fails during any of these tests, then it must go back to **In Dev** to work out the problem.
 
-### Tested
+### Ready for Delivery
 
-If an item makes it through the **In UAT** state, then the Tester moves it to **Tested**. This is a signal that the item is ready for delivery.
-
-## Delivered
-
-TODO
-
+TODO: what goes here?
 
 # NOTE: old notes below
 
