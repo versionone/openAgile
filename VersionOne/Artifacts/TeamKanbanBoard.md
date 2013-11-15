@@ -81,9 +81,9 @@ The Product Owner closes cards. Cards are removed from the Kanban Board when the
 
 The lanes follow this basic flow:
 
-> Unprioritized -> Prioritized -> In Dev -> Ready for Test -> In Test -> Ready for UAT -> In UAT -> Ready for Delivery?
+> Unprioritized -> Prioritized -> In Dev -> Ready for Test -> In Test -> Ready for UAT -> In UAT -> Ready to Ship
 
-**NOTE:** Cool kids beware: this is not about "throwing things over the wall", it's about being able to see where things are relative to their delivery state, period.
+**NOTE:** *Cool kids beware:* this is not about "throwing things over the wall", it's about being able to see where things are relative to their delivery state, period.
 
 ### 0 - Unprioritized
 
@@ -185,7 +185,7 @@ The goal of a UAT session is to exercise the user stories through additional tes
 
 If the item fails during any of these tests, then it must go back to **In Dev** to work out the problem.
 
-### Ready for Delivery
+### Ready to Ship
 
 TODO: what goes here?
 
