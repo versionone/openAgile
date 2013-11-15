@@ -79,6 +79,12 @@ The Product Owner closes cards. Cards are removed from the Kanban Board when the
 
 ## Lanes
 
+The lanes follow this basic flow:
+
+> Unprioritized -> Prioritized -> In Dev -> Ready for Test -> In Test -> Ready for UAT -> In UAT -> Ready for Delivery?
+
+**NOTE:** Cool kids beware: this is not about "throwing things over the wall", it's about being able to see where things are relative to their delivery state, period.
+
 ### 0 - Unprioritized
 
 All cards enter the board as unprioritized work. Cards may be entered by anyone, though usually they are entered in collaboration with the Product Owner.
