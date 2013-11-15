@@ -187,7 +187,8 @@ If the item fails during any of these tests, then it must go back to **In Dev** 
 
 ### Ready to Ship
 
-TODO: what goes here?
+* The Product Owner reviews the items and assembles notes for App Catalog.
+* The Product Owner updates App Catalog and pushes a new build, whether Early Access or Release, or what have you.
 
 # NOTE: old notes below
 
