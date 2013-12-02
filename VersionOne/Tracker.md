@@ -19,6 +19,8 @@ What's up right now?
  * https://versiononesupport.zendesk.com/agent/#/tickets/7563
 * 2013/12/02, TFS build issues, JG
  * https://versiononesupport.zendesk.com/agent/#/tickets/6742
+* 2013/12/02, VersionOne.SDK.ApiClient build issue
+ * https://versiononesupport.zendesk.com/agent/#/tickets/7518
 
 # TODO
 
