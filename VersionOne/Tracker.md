@@ -6,12 +6,10 @@ This is a tracking tool. Seriously. It's written in Markdown, a highly sophistic
 
 YYYY/MM/DD, Item Title, Initials
 Notes
---
 
-2013/12/02, TFS ZenDesk 7563, JG
-https://versiononesupport.zendesk.com/agent/#/tickets/7563
---
 
+* 2013/12/02, TFS ZenDesk 7563, JG
+  * https://versiononesupport.zendesk.com/agent/#/tickets/7563
 
 
 
@@ -24,4 +22,4 @@ https://versiononesupport.zendesk.com/agent/#/tickets/7563
 
 YYYY/MM/DD, Item Title, Initials
 Notes
---
+
