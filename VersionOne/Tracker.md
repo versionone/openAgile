@@ -11,6 +11,8 @@ This is a tracking tool. Seriously. It's written in Markdown, a highly sophistic
 
 What's up right now?
 
+* 2013/12/02, TFS connector issue, JG
+ * https://versiononesupport.zendesk.com/agent/#/tickets/7162
 * 2013/12/02, TFS build issues, JG
  * https://versiononesupport.zendesk.com/agent/#/tickets/7563
 * 2013/12/02, TFS build issues, JG
