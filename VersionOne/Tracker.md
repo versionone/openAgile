@@ -2,10 +2,12 @@ This is a tracking tool. Seriously. It's written in Markdown, a highly sophistic
 
 # In Progress
 
+What's up right now?
+
 ## Format
 
-YYYY/MM/DD, Item Title, Initials
-Notes
+* YYYY/MM/DD, Item Title, Initials
+  * Notes
 
 
 * 2013/12/02, TFS ZenDesk 7563, JG
@@ -15,11 +17,15 @@ Notes
 
 # TODO
 
+What's next?
+
 
 # DONE
 
+What's done?
+
 ## Format: 
 
-YYYY/MM/DD, Item Title, Initials
-Notes
+* YYYY/MM/DD, Item Title, Initials
+  * Notes
 
