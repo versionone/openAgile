@@ -13,17 +13,17 @@ We use it to "visualize", simply, work that is tracked in about a dozen differen
 
 What's up right now?
 
-* 2013/12/02, TFS connector issue, JG
+* 2013/12/02, Ventyx TFS connector issue, JG
  * https://versiononesupport.zendesk.com/agent/#/tickets/7162
-* 2013/12/02, TFS build issues, JG
- * https://versiononesupport.zendesk.com/agent/#/tickets/7563
-* 2013/12/02, TFS build issues, JG
- * https://versiononesupport.zendesk.com/agent/#/tickets/6742
 
 # TODO
 
 What's next?
 
+* 2013/12/02, TFS build issues, JG
+ * https://versiononesupport.zendesk.com/agent/#/tickets/7563
+* 2013/12/02, TFS build issues, JG
+ * https://versiononesupport.zendesk.com/agent/#/tickets/6742
 * 2013/12/02, VersionOne.SDK.ApiClient build issue
  * https://versiononesupport.zendesk.com/agent/#/tickets/7518
 
