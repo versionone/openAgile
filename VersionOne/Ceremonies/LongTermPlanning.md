@@ -2,7 +2,7 @@
 
 ## Why? The Purpose of the Ceremony
 
-The Long-Term Planning is a form of on-going [roadmapping](http://www.enthiosys.com/agile-roadmaps/). The purpose is to:
+The Long-Term Planning is a form of on-going [roadmapping](http://www.slideshare.net/brantleyonline/how-to-do-agile-roadmapping). The purpose is to:
 
 * Consider upcoming, external events over the next 12 months and the market opportunities they provide.
 * Look at how our work will fit with other efforts within the company.
