@@ -7,10 +7,8 @@ We use [our TeamRoom](https://www7.v1host.com/V1Production/TeamRoom.mvc/Show/354
 * Catch each other up on the progress we've made during the last day
 * Identify any **impediments** we're facing that must be removed, and 
 * Highlight what we plan to work on for the coming day (provided our **impediments** get removed!)
+* Know what to report in Big Team standup
 
-## Output: Updates for Big Team Standup
-
-As a result of our standup, one of us (normally Josh unless he's out), updates the rest of the team on the Skype call at 10:15 AM, with the group call to Omega.
 
 ## VersionOne Stand Up / Stand Around
 
@@ -39,6 +37,9 @@ Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](htt
     * Identify opportunities for improvement in the code, team process, etc
     * **Mention other cool stuff you learned!**
 
+## Meeting Output: Updates for Big Team Standup
+
+As a result of our standup, one of us (normally Josh unless he's out), updates the rest of the team on the Skype call at 10:15 AM, with the group call to Omega.
 
 # Improving this meeting
 
