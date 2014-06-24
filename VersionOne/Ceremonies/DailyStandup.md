@@ -24,6 +24,7 @@ Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](htt
 
 # Meeting Goals
 
+* Utilizing [our TeamRoom](https://www7.v1host.com/V1Production/TeamRoom.mvc/Show/354268) as our tool, we start from the top and talk about the Stories currently in play:
 * Briefly identify accomplishments during the last day
     * Call out any **impediments** that are blocking your progress
     * And, arrange to get help from others on removing the impediments
