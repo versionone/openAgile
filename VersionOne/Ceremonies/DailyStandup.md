@@ -8,6 +8,10 @@ We use [our TeamRoom](https://www7.v1host.com/V1Production/TeamRoom.mvc/Show/354
 * Identify any **impediments** we're facing that must be removed, and 
 * Highlight what we plan to work on for the coming day (provided our **impediments** get removed!)
 
+## Output: Updates for Big Team Standup
+
+As a result of our standup, one of us (normally Josh unless he's out), updates the rest of the team on the Skype call at 10:15 AM, with the group call to Omega.
+
 ## VersionOne Stand Up / Stand Around
 
 ![Daily Stand Up](http://blogs.versionone.com/agile_management/wp-content/uploads/sites/3/2013/04/Daily-Standup-Landing-page21.jpg)
