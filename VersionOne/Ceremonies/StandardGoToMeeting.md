@@ -1,6 +1,6 @@
 # Standard GoToMeeting Info
 
-This is a recurring meeting, so we can open it any time. It's under the "dev6" user account if you need to launch it:
+This is named the **openAgile Recurring Meeting**. It's under the "dev6" user account if you need to launch it. Password is located in Confluence at http://confluence/display/dev/GoToMeeting+Accounts
 
 > Meeting ID: 754-347-648 
 
