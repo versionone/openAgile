@@ -2,6 +2,8 @@
 
 The Daily Standup Meeting is a [brief meeting](http://martinfowler.com/articles/itsNotJustStandingUp.html) that lets us:
 
+We use [our TeamRoom](https://www7.v1host.com/V1Production/TeamRoom.mvc/Show/354268), and generally follow the [Work Items Attend](http://martinfowler.com/articles/itsNotJustStandingUp.html#WorkItemsAttend) pattern, which helps in focusing through the items we set out to deliver for an iteration. However, as the pattern notes indicate this can lead to not everyone mentioning all important activities. The overall goal is to:
+
 * Catch each other up on the progress we've made during the last day
 * Identify any **impediments** we're facing that must be removed, and 
 * Highlight what we plan to work on for the coming day (provided our **impediments** get removed!)
