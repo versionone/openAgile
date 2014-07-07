@@ -24,7 +24,7 @@ In order to incrementally evolve to more of a "pull-based" workflow, without aba
 ## VP team
 
 * Go to our [Team Room](https://www7.v1host.com/V1Production/TeamRoom.mvc/Show/354268) and look at the Testboard.
-* Decide amongst yourselves how to split up the **Fix Broken Builds*** story's Tests.
+* Decide amongst yourselves how to split up the **Fix Broken Builds** story's Tests.
 * Then, for each Test click the "Sign Me Up" action so that its clear who is working to make that Test pass.
  * Edit the Test to put a **Detail Estimate (hrs)** value into it.
 * Move the Test card from **Not Started** into **Developing**
