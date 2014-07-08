@@ -144,20 +144,20 @@ significant back-and-forth motion. That's fine -- that's what it takes to collab
   * When the Dev feels like there is something to 'demo', the Tester is available that day, or at worst the next day, to review the work with the Dev, and potentially with other people.
   * For items with automated tests, the Dev and Tester work together to decide who is best equipped to automate a given test.
 
-### Ready for Test (ready for Carlena)
+### Ready for Test
 
-When a developer who has pulled an item into **In Dev** feels the item is ready for Carlena to test, the developer
+When a developer who has pulled an item into **In Dev** feels the item is ready for Amitai or another tester to test, the developer
 places the card in ready for test. Next:
 
-* Carlena and the developer, at minimum, will arrange an overview GTM session
-* Carlena will accept the item after the demo, or it will be placed back in **In Dev** if there is something wrong that 
+* Tester and the developer, at minimum, will arrange an overview GTM session
+* Tester will accept the item after the demo, or it will be placed back in **In Dev** if there is something wrong that 
 is easily identified during the overview demo.
 
 ### In Test
 
-When Carlena is actively testing an item, she will pull it from **Ready for Test** and place it into this lane.
+When a Tester is actively testing an item, they will pull it from **Ready for Test** and place it into this lane.
 
-During this state, Carlena will be:
+During this state, the Tester will be:
 
 * Performing Test Cases as specified in VersionOne
 * Working with the developer to create Automated Tests where appropriate
@@ -167,7 +167,7 @@ During this state, Carlena will be:
 
 ### Ready for UAT (User Acceptance Test)
 
-If an item makes it through the **In Test** state, Carlena will place it into **Ready for UAT**, indicating that it is
+If an item makes it through the **In Test** state, the Tester will place it into **Ready for UAT**, indicating that it is
 ready for additional User Acceptance Testing by a larger audience.
 
 ### In UAT
