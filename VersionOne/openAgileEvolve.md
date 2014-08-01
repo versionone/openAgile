@@ -5,8 +5,9 @@ Evolve is an experiment that recognizes the work to evolve existing code bases i
 ## Goal
 
 Balance demand for keeping integrations valuable with the supply of developers who can do the work. Assume the demand will continue to increase. Help support the growth of demand through:
-	* Education of external developers, thereby, satisfying demand with external supply.
-	* Simplification of existing code, thereby, reducing the "cost" of satisfying demand.
+
+* Education of external developers, thereby, satisfying demand with external supply.
+* Simplification of existing code, thereby, reducing the "cost" of satisfying demand.
 
 ## Values
 
