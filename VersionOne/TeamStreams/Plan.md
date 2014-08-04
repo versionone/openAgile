@@ -13,6 +13,13 @@
 		* Borrow tester (from support?)
 	* DevOps
 	* 2 VP Devs (support focus) + 1 VP Technical Tester (dedicated to evolve)
+	* Roles
+		sdet(Software Development Engineer in Test)
+	 	developer
+	 
+	 *Integration testing
+	 
+	 *Documentation
 
 * Innovation
 	* Josh (PM/Dev)
@@ -25,6 +32,8 @@
 	* Tester (shared with evolve)
 		* Software Test Engineer (half-time until more is needed) 
 	* 2 VP Devs
+	* who writes the code also should write the test (real TDD)
+
 
 **2) What can we do as a team to make it happen?**  
 
@@ -45,6 +54,8 @@
 	* Offsite
 	* Define success (measureable)
 * Begin educating the org of the impending (trial) split
+* Full committment on the assigned stream.
+* Someone that is available to help both streams (JOSH??)
 
 **3) How can we limit support demand?**  
 
@@ -58,6 +69,9 @@
 * Define line between free and paid services
 * Define WIP levels
 * Near-shore is primary
+* Improve current documentation by checking if it is up to date and accurate(live examples)
+* Define priorities (customers vs community)
+* Imporve test code coverage so we can detect errors early
 
 **4) How to best to engage/interact with the larger org/community?**  
 
@@ -71,6 +85,8 @@
 	* Engage them with email, survey, etc.
 * More 3 PMs
 * More transparency/engagement with Services
+* It would be nice to see all the sources (github, stackoverflow, etc) in one place
+* Have a timebox to have an answer.
 
 
 
