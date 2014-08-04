@@ -1,4 +1,4 @@
-1) What will the starting team look like?  
+**1) What will the starting team look like?**  
 
 * Evolve
 	* Acey (PM/Dev)
@@ -24,7 +24,7 @@
 		* Software Test Engineer (half-time until more is needed) 
 	* 2 VP Devs
 
-2) What can we do as a team to make it happen?  
+**2) What can we do as a team to make it happen?**  
 
 * Make case for adding head count
 	* 2 new devs (1 backfil for Joe, one new)
@@ -44,7 +44,7 @@
 	* Define success (measureable)
 * Begin educating the org of the impending (trial) split
 
-3) How can we limit support demand?  
+**3) How can we limit support demand?**  
 
 * Add more technical knowledge to the regular support team
 	* New hire (new hire definition)
@@ -57,7 +57,7 @@
 * Define WIP levels
 * Near-shore is primary
 
-4) How to best to engage/interact with the larger org/community?  
+**4) How to best to engage/interact with the larger org/community?**  
 
 * Ownership of developer community site
 * Evolve stream work itself
