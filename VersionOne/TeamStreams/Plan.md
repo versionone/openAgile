@@ -70,7 +70,7 @@
 	* Who are developing with our platform?
 	* Engage them with email, survey, etc.
 * More 3 PMs
-* More transparency with Services
+* More transparency/engagement with Services
 
 
 
