@@ -21,7 +21,7 @@
 		* Rotate in from core team (like on the john)
 			* Need: Management committment
 			* Pro: Can spread knowledge of openAgile work throughout the org
-			* Con: Care team may come up with reason not to let them go
+			* Con: Core team may come up with reason not to let them go
 	* Tester (shared with evolve)
 		* Software Test Engineer (half-time until more is needed) 
 	* 2 VP Devs
@@ -67,7 +67,7 @@
 * Participation in External Developer events
 * Customer Success for V1 Developers
 	* Engage Customer Success team for help
-	* Who are developing with our platform?
+	* Who is developing with our platform?
 	* Engage them with email, survey, etc.
 * More 3 PMs
 * More transparency/engagement with Services
