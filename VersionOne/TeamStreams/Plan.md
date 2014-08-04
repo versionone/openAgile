@@ -49,7 +49,7 @@
 **3) How can we limit support demand?**  
 
 * Add more technical knowledge to the regular support team
-	* New hire (new hire definition)
+	* New hire (at least alter new hire definition)
 	* Training/pairing
 * Evangelize alternative support channels (StackOverflow, Google Groups)
 * Build knowledge within developer community site (like KB articles)
