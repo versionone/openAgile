@@ -23,6 +23,8 @@ Many of our integrations continue to be locked within the V1 internal Subversion
 * Ensure that integrations compile and work with last tested target system versions
 * Review and triage related GitHub issues
 
+> View the [Exodus Plan](Exodus.md) for more details.
+
 ### Exit Criteria:
 
 * 
