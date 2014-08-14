@@ -39,3 +39,22 @@ We've met several times to prototype how this will work. Here are some sketches 
 
 ![Josh's Sketch](https://s3.amazonaws.com/uploads.hipchat.com/12722/130235/M5wJrLZtn4tDrF6/upload.png)
 
+# Serve the needs of individuals and teams, starting with V1 employees and teams
+
+As the sketches above depict, openAgile's major directive is to improve our product integration capabilities. This starts with serving the needs of our own individuals and teams first and foremost. **When our open platform serves our own employees' needs well, it will serve the larger and external community of developers integrating with VersionOne.**
+
+## Value streams between VersionOne teams
+
+Let's envision the flow as a series of requests and responses:
+
+* Request: openAgile Evolve informs openAgile Labs about integration problems, such as tight-coupling within ServiceHost projects, and expresses the goal to decouple it for better testability, extensibility, and maintainability
+ * openAgile Labs collaborates with them to [create a modular architecture for these component](https://github.com/JogoShugh/ModularAspNetMvc/blob/master/new/Programming-with-Modules-MEF-CSharp.md).
+
+
+
+
+
+
+
+
+Regarding openAgile 
