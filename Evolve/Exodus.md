@@ -1,4 +1,4 @@
-# Exodus Plan
+# openAgile Evolve Exodus Plan
 
 An initial goal of the Evolve Team is to unlock legacy integrations from the internal Subversion repository, update and refactor them, then make them available in GitHub as open source solutions. To this end, the exodus will involve the following:
 

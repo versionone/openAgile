@@ -1,6 +1,6 @@
 # openAgile Evolve Charter
 
-The charter of the openAgile Evolve team is to understand and improve the integrity and maintainability of all the integrations owned by VersionOne, and to improve VersionOne platform developer engagement and support. The Evolve team will be short-lived as it will exist only as long as needed to complete and/or transition ownership of the major themes that the team was created to address. The Evolve team will dissolve once all exit criteria have been met.
+The charter of the openAgile Evolve team is to improve the integrity and maintainability of all the integrations owned by VersionOne, and to improve VersionOne platform developer engagement and support. The Evolve team will be short-lived as it will exist only as long as needed to complete and/or transition ownership of the areas that the team was created to address. The Evolve team will dissolve once all exit criteria have been met.
 
 The Evolve team will swarm around the following themes:
 
@@ -87,18 +87,23 @@ Another theme is that of developer community which involves engaging our develop
 
 ## Support
 
-The final theme is that of developer support which is closely related to developer community, but is more reactive in nature.
+The final theme is that of developer support which is part of engaging the developer community, but is more reactive in nature. A key part of our support effort will be reacting to each support incident to drive down the number of incidents.
 
 * Establish consistent ticket triage and shepherding process
+* Establish a process for reacting to support incidents once they are resolved
 * Bring support "closer" by educating and paring with them on platform and integrations tickets (build a bridge) 
-* Involve support in decisions
 * Serve as escalation route for developer oriented tickets
-* Monitor Zendesk, StackOverflow, and Google Dev Group for new issues and bring into backlog as necessary
-* Strive to reduce ticket cycle time and number of tickets submitted
+* Automated process for monitoring support channels for new issues and bringing into backlog
+* Strive to reduce ticket cycle time and number of incidents
 * Reduce support channels by deprecating Dev-Google Group in lieu of StackOverflow
+* Consistently evangelize StackOverflow as the first and best choice for platform questions
 
 > View the [Support Plan](Support.md) for more details.
 
 ### Exit Criteria:
 
-*
+* Increased activity in StackOverflow above current levels
+* V1 support fields all 1st level platform support tickets
+* V1 support knows the escalation process
+* Support incidents and their cycle time measurably reduced from current levels
+* Functioning process for ticket reaction
