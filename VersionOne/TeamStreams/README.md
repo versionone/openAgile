@@ -39,6 +39,14 @@ We've met several times to prototype how this will work. Here are some sketches 
 
 ![Josh's Sketch](https://s3.amazonaws.com/uploads.hipchat.com/12722/130235/M5wJrLZtn4tDrF6/upload.png)
 
+## IanB's synthesis of Josh and Acey's drawings
+
+IanB took the above and combined concepts with his own and Acey's and produced this diagram:
+
+![Ian's Diagram](https://s3.amazonaws.com/uploads.hipchat.com/12722/610722/c7OGezDNgj6EEqe/team_split_diagram.png)
+
+TODO: summarize the concepts in the diagram
+
 # Serve the needs of individuals and teams, starting with V1 employees and teams
 
 As the sketches above depict, openAgile's major directive is to improve our product integration capabilities. This starts with serving the needs of our own individuals and teams first and foremost. **When our open platform serves our own employees' needs well, it will serve the larger and external community of developers integrating with VersionOne.**
