@@ -35,5 +35,5 @@ We've met several times to prototype how this will work. Here are some sketches 
 
 ## Josh's sketch
 
-https://s3.amazonaws.com/uploads.hipchat.com/12722/130235/cXPXe75jFCL3R2L/20140805_164259.jpg
+![Josh's Sketch](https://s3.amazonaws.com/uploads.hipchat.com/12722/130235/cXPXe75jFCL3R2L/20140805_164259.jpg)
 
