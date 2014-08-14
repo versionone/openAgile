@@ -20,7 +20,9 @@ Team charter: TODO
 
 # Background
 
-There are many factors which contribute to this split. You can learn more in the respective Charter links above. In brief, openAgile has been doing the following:
+The older document [BigPicture.md](https://github.com/versionone/openAgile/blob/master/VersionOne/Artifacts/BigPicture.md) outlines the major factors that have led to this split. You can learn more about how we've progressed in the respective Charter links above. 
+
+In brief, openAgile has been doing the following:
 
 * Maintaining and upgrading around two dozen existing third-party integrations, most of which you can find with this [search for VersionOne.Integration](https://github.com/versionone?page=2&query=VersionOne.Integration)
 * Responding to emergent request in GitHub, StackOverflow, ZenDesk, Google Groups, email, face-to-face requests
