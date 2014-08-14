@@ -1,8 +1,14 @@
 # openAgile Evolve Support Plan
 
-As discussed in the [openAgile Evolve Charter](Chater.md), one area that the Evolve team will focus on is improving platform support. We'll start be defining a ticket lifecycle process that places emphasis on the 3Rs: Respond-Resolve-React.
+As discussed in the [openAgile Evolve Charter](Chater.md), one area that the Evolve team will focus on is improving platform support. We'll start by defining a ticket lifecycle process that places emphasis on the 3Rs: Respond-Resolve-React.
 
 ## Ticket Lifecycle
+
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/ticket_lifecycle.png)
+
+
+
+
 
 
 
@@ -25,7 +31,7 @@ We appreciate your patience while we review your request.
 
 
 
-##### Zendesk Macros
+##### Zendesk Macros for Ticket Responses
 
 
 
