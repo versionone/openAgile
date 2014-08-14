@@ -51,7 +51,7 @@ Let's envision the flow as a series of requests and responses:
  * Response: openAgile Labs says, ***"Totally. Check out the ideas here about [creating a modular architecture in .NET with MEF the same way Visual Studio itself works! Then let's collaborate in the next iteration on this.](https://github.com/JogoShugh/ModularAspNetMvc/blob/master/new/Programming-with-Modules-MEF-CSharp.md)."***
 * Request: Both V1 Services and Ops lament, ***"Customers like Ventyx and CapitalOne are using thousands and thousands of API calls to rest-1.v1 API! How do we use query.v1 to reduce those calls?"***
  * Response 1: openAgile Evolve responds, ***"Glad you asked. Watch this video Laureano did about how he reduced the API calls, data traffic, and response time all by more than 90%! Let's collaborate on that next week."***
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=G_3ukdxhw2Q
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=G_3ukdxhw2Q
 " target="_blank"><img src="http://img.youtube.com/vi/G_3ukdxhw2Q/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  * Response 2: VersionOne Services' Matt Badgley says, ***"Hey check out what I did with query.v1 with Dashing.io! I'd like to participate in that collaboration. Here's a screen shot of V1Dashing:"*** 
