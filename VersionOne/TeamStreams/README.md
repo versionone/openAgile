@@ -35,5 +35,5 @@ We've met several times to prototype how this will work. Here are some sketches 
 
 ## Josh's sketch
 
-![Josh's Sketch](https://camo.githubusercontent.com/95421d49c0f3bc95dd7b0e2dcb90871751988d28/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f75706c6f6164732e686970636861742e636f6d2f31323732322f3133303233352f635850586537356a46434c3352324c2f32303134303830355f3136343235392e6a7067)
+![Josh's Sketch](https://s3.amazonaws.com/uploads.hipchat.com/12722/130235/M5wJrLZtn4tDrF6/upload.png)
 
