@@ -4,11 +4,9 @@ As a result of working with Dave Laribee in July, 2014, we recognized the need t
 
 ## Team 1: openAgile Evolve
 
-Purpose: TODO
+Purpose: See the [openAgile Evolve Charter](https://github.com/versionone/openAgile/blob/master/Evolve/Charter.md)
 
 Backlog owner: @aceybunch
-
-Team charter: [openAgile Evolve Charter](https://github.com/versionone/openAgile/blob/master/Evolve/Charter.md)
 
 ## Team 2: openAgile Labs
 
