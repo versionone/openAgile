@@ -8,7 +8,7 @@ Purpose: See the [openAgile Evolve Charter](https://github.com/versionone/openAg
 
 Backlog owner: @aceybunch
 
-## Team 2: openAgile Labs
+## Team 2: openAgile Sprint (Labs, Forge, Foundry?)
 
 Purpose: TODO
 
