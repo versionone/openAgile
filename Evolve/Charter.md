@@ -89,7 +89,8 @@ Another theme is that of developer community which involves engaging our develop
 
 The final theme is that of developer support which is part of engaging the developer community, but is more reactive in nature. A key part of our support effort will be reacting to each support incident to drive down the number of incidents.
 
-* Establish consistent ticket triage and shepherding process
+* Establish a consistent ticket lifecycle
+* Establish a automated ticket response process (Zendesk Macros)
 * Establish a process for reacting to support incidents once they are resolved
 * Bring support "closer" by educating and paring with them on platform and integrations tickets (build a bridge) 
 * Serve as escalation route for developer oriented tickets
