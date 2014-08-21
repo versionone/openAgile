@@ -1,10 +1,10 @@
 # openAgile Evolve Support Plan
 
-As discussed in the [openAgile Evolve Charter](Chater.md), one area that the Evolve team will focus on is improving platform support. We'll start by defining a ticket lifecycle process that places emphasis on the 3Rs: Respond-Resolve-React.
+As discussed in the [openAgile Evolve Charter](Chater.md), one area that the Evolve team will focus on is improving platform support. Platform support incidents include not only the [Zendesk openAgile](https://versiononesupport.zendesk.com/agent/#/filters/27801174) tickets, but also requests on [StackOverflow](http://stackoverflow.com/search?tab=newest&q=versionone), the [V1 Developers Google Group](https://groups.google.com/forum/#!forum/versionone-dev), and emails that we may received from internal and external customers.
 
-## Ticket Lifecycle
+## Incident Lifecycle
 
-The ticket lifecycle will be used primarily for handling tickets that we receive through Zendesk, but should be equally applied to other support related channels such as StackOverflow, Developer Google Group, email, or some other means. 
+The incident lifecycle will be used primarily for handling tickets that we receive through Zendesk, but will be equally applied to other support related channels such as StackOverflow, the V1 Developers Google Group, email, or other channels. 
 
 ![](https://github.com/versionone/openAgile/blob/master/Evolve/ticket_lifecycle.png)
 
