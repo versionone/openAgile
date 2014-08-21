@@ -1,6 +1,6 @@
 # openAgile Evolve Exodus Plan
 
-An primary goal of the Evolve Team is to unlock legacy integrations from the internal Subversion repository, update and refactor them, then make them available in GitHub as open source solutions. As discussed in the [openAgile Evolve Charter](Chater.md), the team will focus on the following tasks for the Exodus:
+An primary goal of the Evolve Team is to unlock legacy integrations from the internal SVN repository, update and refactor them, then make them available in GitHub as open source solutions. As discussed in the [openAgile Evolve Charter](Chater.md), the team will focus on the following tasks for the Exodus:
 
 ## Integrations Slated for Exodus
 
@@ -100,7 +100,7 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 		<td>Source code is in repo, buts needs cleanup and verification.</td>
 	</tr>
 	<tr>
-		<td>ServiceHost.ConfigTool</td>
+		<td>ServiceHost.ConfigurationTool</td>
 		<td>REPO DOES NOT EXIST</td>
 		<td>Needs cleanup and verification.</td>
 	</tr>
@@ -128,14 +128,16 @@ As we Exodus each integration, there is a common set of actions that we will nee
 7. For .NET projects, refactor unit tests using MSTest
 8. For Java projects, refactor unit tests using latest JUnit
 9. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
-10. Ensure that project compiles
-11. Ensure the existing unit tests pass
-12. Create Azure VM with latest tested target system version
-13. Manual test integration using Azure VM
-14. Create Jenkins job for CI builds/unit test runs of integration
-15. Verify integration documentation
-16. Verify auto-population and accuracy of AppCatalog entries
-17. Triage related GitHub issues and add to backlog as needed
-18. Hold post-mortem to review lessons learned
+10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
+11. Ensure that project compiles
+12. Ensure the existing unit tests pass
+13. Create Azure VM with latest tested target system version
+14. Manual test integration using Azure VM
+15. Create Jenkins job for CI builds/unit test runs of integration
+16. Verify integration documentation
+17. Verify auto-population and accuracy of AppCatalog entries
+18. Triage related GitHub issues and add to backlog as needed
+19. Hold post-mortem to review lessons learned
 
-> Note: As we work through each integration, we'll look for problem areas and log GitHub issues.
+> As we work through each integration, we'll look for problem areas and log them as GitHub issues. We will not be fixing those issues during the Exodus as our focus is to modernize and ensure that the current code compiles and functions. We will address issues during the [Maintain](https://github.com/versionone/openAgile/blob/master/Evolve/Maintain.md) phase.
+> 
