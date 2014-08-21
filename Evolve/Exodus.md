@@ -24,31 +24,13 @@ We will unlock the following integrations, order of exodus TBD:
 <table border="1" width="100%">
 	<tr>
 		<th>Name</th>
+		<th>Repo</th>
 		<th>Notes</th>
 	</tr>
 	<tr>
 		<td>Subversion</td>
-		<td>Repo: https://github.com/versionone/VersionOne.Integration.Subversion</br></br>  
-
-
-			Source code is in repo, buts needs cleanup and verification.
-		</td>
-	</tr>
-	<tr>
-		<td>Platform: Request Assigned</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Platform: Request In Progress</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Platform: Request Resolved</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Platform: No Customer Response</td>
-		<td>Applies "noreply" tag and sets the status to "Solved".</td>
+		<td>https://github.com/versionone/VersionOne.Integration.Subversion</td>
+		<td>Source code is in repo, buts needs cleanup and verification.</td>
 	</tr>
 </table>
 
