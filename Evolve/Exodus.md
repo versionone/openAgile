@@ -28,7 +28,9 @@ We will unlock the following integrations, order of exodus TBD:
 	</tr>
 	<tr>
 		<td>Subversion</td>
-		<td>Source code already in the [VersionOne.Integration.Subversion](https://github.com/versionone/VersionOne.Integration.Subversion) repo. Needs cleanup and verification.</td>
+		<td>Repo: https://github.com/versionone/VersionOne.Integration.Subversion</br></br>
+			Source code is in repo, buts needs cleanup and verification.
+		</td>
 	</tr>
 	<tr>
 		<td>Platform: Request Assigned</td>
