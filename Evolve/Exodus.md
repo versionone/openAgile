@@ -113,6 +113,7 @@ Prior to moving integrations into their own GitHub repositories, there are a few
 1. Purge the [ServiceHost GitHub Repo](https://github.com/versionone/ServiceHost) of sunset integrations
 2. Run the [VS Solution Dependency Visualizer](http://www.devio.at/index.php/vsslndepvis) to understand all dependencies
 3. Break out common dependencies into shared components
+4. Create Jenkins build job using psake tools for each shared component
 4. Publish the common dependencies in MyGet, NuGet, or Maven Central as needed
  
 ## Exodus Actions
@@ -128,6 +129,7 @@ As we Exodus each integration, there is a common set of actions that we will nee
 7. For .NET projects, refactor unit tests using MSTest
 8. For Java projects, refactor unit tests using latest JUnit
 9. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
+10. Research target system dependencies, make note of newer versions
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
 11. Ensure that project compiles
 12. Ensure the existing unit tests pass
@@ -135,7 +137,7 @@ As we Exodus each integration, there is a common set of actions that we will nee
 14. Manual test integration using Azure VM
 15. Create Jenkins job for CI builds/unit test runs of integration
 16. Verify integration documentation
-17. Verify auto-population and accuracy of AppCatalog entries
+17. Verify auto-population and accuracy of AppCatalog entries (staging)
 18. Triage related GitHub issues and add to backlog as needed
 19. Hold post-mortem to review lessons learned
 
