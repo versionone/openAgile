@@ -1,10 +1,10 @@
 # openAgile Evolve Exodus Plan
 
-An primary goal of the Evolve Team is to unlock legacy integrations from the internal Subversion repository, update and refactor them, then make them available in GitHub as open source solutions.  
+An primary goal of the Evolve Team is to unlock legacy integrations from the internal Subversion repository, update and refactor them, then make them available in GitHub as open source solutions. As discussed in the [openAgile Evolve Charter](Chater.md), the team will focus on the following tasks for the Exodus:
 
 ## Integrations Slated for Exodus
 
-We will unlock the following integrations, order of exodus TBD:
+We will Exodus the following integrations, order TBD:
 
 <table border="1" width="100%">
 	<tr>
@@ -84,6 +84,27 @@ We will unlock the following integrations, order of exodus TBD:
 	</tr>
 </table>
 
+## Shared Components
+
+A key aspect of the Exodus is to find common dependencies and break them out as individual projects, cleanup and verify them, then put them into their own GitHub repositories to be referenced by the integration projects. Where it makes sense, we will extrapolate the components into a public repository such as NuGet, MyGet, and Maven Central.
+
+<table border="1" width="100%">
+	<tr>
+		<th>Name</th>
+		<th>Repo</th>
+		<th>Notes</th>
+	</tr>
+	<tr>
+		<td>ServiceHost.Core</td>
+		<td>https://github.com/versionone/VersionOne.ServiceHost.Core</td>
+		<td>Source code is in repo, buts needs cleanup and verification.</td>
+	</tr>
+	<tr>
+		<td>ServiceHost.ConfigTool</td>
+		<td>REPO DOES NOT EXIST</td>
+		<td>Needs cleanup and verification.</td>
+	</tr>
+</table>
 
 ## Pre-Exodus Actions
 
@@ -91,5 +112,30 @@ Prior to moving integrations into their own GitHub repositories, there are a few
 
 1. Purge the [ServiceHost GitHub Repo](https://github.com/versionone/ServiceHost) of sunset integrations
 2. Run the [VS Solution Dependency Visualizer](http://www.devio.at/index.php/vsslndepvis) to understand all dependencies
-3. 
+3. Break out common dependencies into shared components
+4. Publish the common dependencies in MyGet, NuGet, or Maven Central as needed
  
+## Exodus Actions
+
+As we Exodus each integration, there is a common set of actions that we will need to take:
+
+1. Detangle integration from ServiceHost solution, put it in its own GitHub repo
+2. Bring solution/project files up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5 & Eclipse Luna/JDK 8)
+3. Remove unnecessary dependencies (tool?)
+4. Remove dead/commented out code (tool?)
+5. Set all dependencies to use NuGet/MyGet/Maven Central components
+6. Create new unit test project/package, pull in any existing usable tests
+7. For .NET projects, refactor unit tests using MSTest
+8. For Java projects, refactor unit tests using latest JUnit
+9. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
+10. Ensure that project compiles
+11. Ensure the existing unit tests pass
+12. Create Azure VM with latest tested target system version
+13. Manual test integration using Azure VM
+14. Create Jenkins job for CI builds/unit test runs of integration
+15. Verify integration documentation
+16. Verify auto-population and accuracy of AppCatalog entries
+17. Triage related GitHub issues and add to backlog as needed
+18. Hold post-mortem to review lessons learned
+
+> Note: As we work through each integration, we'll look for problem areas and log GitHub issues.

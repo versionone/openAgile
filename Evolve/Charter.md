@@ -15,9 +15,12 @@ Many of our integrations continue to be locked within the V1 internal SVN reposi
 
 * Identify integrations to be maintained or retired (sunset)
 * Purge deprecated integrations from current ServiceHost solution
-* Analyze the integrations for common dependencies, break them out into shared components (EX: ServiceHost.Core)
+* Analyze the integrations for common dependencies
+* Break out the common dependencies into shared components (EX: ServiceHost.Core)
+* Ensure that shared components are available in MyGet, NuGet, or Maven Central
 * Detangle individual integrations from ServiceHost solution, create each in its own GitHub repo
 * Bring integrations up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5 & Eclipse Luna/JDK 8)
+* Bring integrations up to latest V1 SDK versions (.NET and Java API)
 * Change EXE and config file name from ServiceHost to integration name???
 * Remove unnecessary dependencies
 * Remove dead/commented out code
