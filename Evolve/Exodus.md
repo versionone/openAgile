@@ -121,7 +121,7 @@ Prior to moving integrations into their own GitHub repositories, there are a few
 As we Exodus each integration, there is a common set of actions that we will need to take:
 
 1. Detangle integration from ServiceHost solution, put it in its own GitHub repo
-2. Bring solution/project files up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5 & Eclipse Luna/JDK 8)
+2. Bring solution/project files up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5.1 & Eclipse Luna/JDK 8)
 3. Remove unnecessary dependencies (tool?)
 4. Remove dead/commented out code (tool?)
 5. Set all dependencies to use NuGet/MyGet/Maven Central components
