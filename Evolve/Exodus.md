@@ -29,6 +29,8 @@ We will unlock the following integrations, order of exodus TBD:
 	<tr>
 		<td>Subversion</td>
 		<td>Repo: https://github.com/versionone/VersionOne.Integration.Subversion</br></br>  
+
+
 			Source code is in repo, buts needs cleanup and verification.
 		</td>
 	</tr>
