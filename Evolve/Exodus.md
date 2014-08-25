@@ -13,13 +13,23 @@ We will Exodus the following integrations, order TBD:
 		<th>Notes</th>
 	</tr>
 	<tr>
-		<td>Subversion</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Subversion</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
+		<td>Hudson</td>
+		<td>https://github.com/versionone/VersionOne.Integration.Hudson</td>
+		<td>Empty repo.</td>
+	</tr>
+	<tr>
+		<td>Innovation Games</td>
+		<td>https://github.com/versionone/VersionOne.Integration.Buy-A-Feature</td>
+		<td>Repo contians documentation only.</td>
 	</tr>
 	<tr>
 		<td>JIRA</td>
 		<td>https://github.com/versionone/VersionOne.Integration.JIRA</td>
+		<td>Repo contians documentation only.</td>
+	</tr>
+	<tr>
+		<td>Perforce</td>
+		<td>https://github.com/versionone/VersionOne.Integration.Perforce</td>
 		<td>Repo contians documentation only.</td>
 	</tr>
 	<tr>
@@ -28,58 +38,8 @@ We will Exodus the following integrations, order TBD:
 		<td>Repo contians documentation only.</td>
 	</tr>
 	<tr>
-		<td>Bugzilla</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Bugzilla</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
-	</tr>
-	<tr>
-		<td>CruiseControl</td>
-		<td>https://github.com/versionone/VersionOne.Integration.CruiseControl</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
-	</tr>
-	<tr>
-		<td>ElectricCommander</td>
-		<td>https://github.com/versionone/VersionOne.Integration.ElectricCommander</td>
-		<td>Repo contians documentation only.</td>
-	</tr>
-	<tr>
-		<td>Git</td>
-		<td>https://github.com/versionone/VersionOne.Integration.GitSCM</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
-	</tr>
-	<tr>
-		<td>Hudson</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Hudson</td>
-		<td>Empty repo.</td>
-	</tr>
-	<tr>
-		<td>Jenkins</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Jenkins</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
-	</tr>
-	<tr>
-		<td>Innovation Games</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Buy-A-Feature</td>
-		<td>Repo contians documentation only.</td>
-	</tr>
-	<tr>
-		<td>LDAP Provisioning</td>
-		<td>https://github.com/versionone/VersionOne.Provisioning.LDAP</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
-	</tr>
-	<tr>
-		<td>Perforce</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Perforce</td>
-		<td>Repo contians documentation only.</td>
-	</tr>
-	<tr>
-		<td>TeamCity</td>
-		<td>https://github.com/versionone/VersionOne.Integration.TeamCity</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
-	</tr>
-	<tr>
-		<td>TFS</td>
-		<td>https://github.com/versionone/VersionOne.Integration.VSTFS</td>
+		<td>Subversion</td>
+		<td>https://github.com/versionone/VersionOne.Integration.Subversion</td>
 		<td>Source code is in repo, buts needs cleanup and verification.</td>
 	</tr>
 </table>
@@ -142,4 +102,3 @@ As we Exodus each integration, there is a common set of actions that we will nee
 19. Hold post-mortem to review lessons learned
 
 > As we work through each integration, we'll look for problem areas and log them as GitHub issues. We will not be fixing those issues during the Exodus as our focus is to modernize and ensure that the current code compiles and functions. We will address issues during the [Maintain](https://github.com/versionone/openAgile/blob/master/Evolve/Maintain.md) phase.
-> 

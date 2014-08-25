@@ -8,6 +8,7 @@ The Evolve team will swarm around the following themes:
 * **Maintain**: Create automated process for ensuring integration integrity and support
 * **Engage**: Reorganize and enhance platform and integration documentation, establish processes for better developer engagement and support
 * **Support**: Own escalations of platform support, work with V1 support to improve response cycle times and processes
+* **Fuse**: Serve as the technology partner for external vendors that create integrations with VersionOne.
 
 ## Exodus
 
@@ -121,3 +122,10 @@ The final theme is that of developer support which is a component of engaging th
 * Support incidents and their cycle time measurably reduced from current levels
 * Decrease in Google Group activity
 * Increase in StackOverflow activity
+
+## Fuse
+TBD
+
+### Exit Criteria:
+
+* TBD
