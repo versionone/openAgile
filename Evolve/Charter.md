@@ -10,6 +10,8 @@ The Evolve team will swarm around the following themes:
 * **Support**: Own escalations of platform support, work with V1 support to improve response cycle times and processes
 * **Fuse**: Serve as the technology partner for external vendors that create integrations with VersionOne.
 
+> While the focus of the team is on the themes listed above, the team will operate in an agile and opportunistic fashion - much of our work will be on-demand in response to external events. As a result, our work will be both planned and interrupt driven.
+
 ## Exodus
 
 Many of our integrations continue to be locked within the V1 internal SVN repository, and continuing our move to an open-source model, those integrations need to be cleaned up, verified, and migrated to GitHub.
