@@ -20,22 +20,22 @@ We will Exodus the following integrations, order TBD:
 	<tr>
 		<td>Innovation Games</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Buy-A-Feature</td>
-		<td>Repo contians documentation only.</td>
+		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>JIRA</td>
 		<td>https://github.com/versionone/VersionOne.Integration.JIRA</td>
-		<td>Repo contians documentation only.</td>
+		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>Perforce</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Perforce</td>
-		<td>Repo contians documentation only.</td>
+		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>Quality Center</td>
 		<td>https://github.com/versionone/VersionOne.Integration.QualityCenter</td>
-		<td>Repo contians documentation only.</td>
+		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>Subversion</td>
