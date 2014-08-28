@@ -1,6 +1,6 @@
 # openAgile Evolve Maintain Plan
 
-Once all integrations have completed the [Exodus](https://github.com/versionone/openAgile/blob/master/Evolve/Exodus.md), the Evolve team will then enter the Maintain phase. In this phase, the integrations will be brought up-to-date to target the latest version of the systems that they integrate with, will get expanded unit testing, and will get automate integration testing so that we may better ensure their integrity. This may include removing and/or enhancing their functionality.
+Once an integration has completed the [Exodus](https://github.com/versionone/openAgile/blob/master/Evolve/Exodus.md), the Evolve team will then enter the Maintain phase. In this phase, the integrations will be brought up-to-date to target the latest version of the systems that they integrate with, will get expanded unit testing, and will get automate integration testing so that we may better ensure their integrity. This may include removing and/or enhancing their functionality.
 
 ## Integrations Slated for Maintain
 
@@ -63,11 +63,6 @@ Based on the [Integration Checklist: Summer 2014](http://confluence/display/V1In
 		<td>https://github.com/versionone/VersionOne.Integration.QualityCenter</td>
 	</tr>
 	<tr>
-		<td>Requestor</td>
-		<td>JavaScript</td>
-		<td>https://github.com/versionone/VersionOne.Client.Requestor</td>
-	</tr>
-	<tr>
 		<td>Salesforce</td>
 		<td>SFDC Apex</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Salesforce</td>
@@ -96,18 +91,19 @@ Prior to beginning to work on integration maintenance, there are a few actions t
 * Refactor ServiceHost Configuration Tool (may require work from openAgile ? Team)
 * Refactor ServiceHost (may require work from openAgile ? Team)
 
-## Maintain Actions
+## Maintain Actions Checklist
 
 As we move each integration into maintenance mode, there is a common set of actions that we will need to take:
 
-* Create hosted test environment (Azure VMs) with current target system version
-* Ensure that integration compiles and works with current target system version
-* Ensure integration uses OAuth for V1 authentication
-* Expand unit test coverage using mocking frameworks as needed
-* Create automated integration test coverage for major workflows using hosted test environment
-* Create installer package (Chocolatey|WIX|Installshield)
-* Update integration documentation
-* Update integration AppCatalog entries
-* Develop transition plan for integration monitoring
+1. Create hosted test environment (Azure VMs) with current target system version
+2. Ensure that integration compiles and works with current target system version
+3. Update integration to use only OAuth for V1 authentication
+4. Triage related GitHub issues and add to backlog as needed
+5. Expand unit test coverage using mocking frameworks as needed
+6. Create automated integration test coverage for major workflows using hosted test environment
+7. Create installer package (Chocolatey|WIX|Installshield)
+8. Update integration documentation
+9. Update integration AppCatalog entries
+10. Develop transition plan for integration monitoring
 
 > The goal of all of this is to make integration maintenance uniform and consistent so that some other team can take ownership of verifying their integrity. Should the other team find issues with an integration, the openAgile team will still own the development work.

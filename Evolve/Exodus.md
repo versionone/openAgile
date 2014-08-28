@@ -13,11 +13,6 @@ We will Exodus the following integrations, order TBD:
 		<th>Notes</th>
 	</tr>
 	<tr>
-		<td>Hudson</td>
-		<td>https://github.com/versionone/VersionOne.Integration.Hudson</td>
-		<td>Empty repo.</td>
-	</tr>
-	<tr>
 		<td>Innovation Games</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Buy-A-Feature</td>
 		<td>Repo contains documentation only.</td>
@@ -46,7 +41,7 @@ We will Exodus the following integrations, order TBD:
 
 ## Shared Components
 
-A key aspect of the Exodus is to find common dependencies and break them out as individual projects, cleanup and verify them, then put them into their own GitHub repositories to be referenced by the integration projects. Where it makes sense, we will extrapolate the components into a public repository such as NuGet, MyGet, and Maven Central.
+A key aspect of the Exodus is to find common dependencies and break them out as individual projects, cleanup and verify them, then put them into their own GitHub repositories to be referenced by the integration projects. Where it makes sense, we will extrapolate the components into a public repository such as MyGet/NuGet.
 
 <table border="1" width="100%">
 	<tr>
@@ -74,9 +69,9 @@ Prior to moving integrations into their own GitHub repositories, there are a few
 2. Run the [VS Solution Dependency Visualizer](http://www.devio.at/index.php/vsslndepvis) to understand all dependencies
 3. Break out common dependencies into shared components
 4. Create Jenkins build job using psake tools for each shared component
-4. Publish the common dependencies in MyGet, NuGet, or Maven Central as needed
+4. Publish the common dependencies in MyGet/NuGet as needed
  
-## Exodus Actions
+## Exodus Actions Checklist
 
 As we Exodus each integration, there is a common set of actions that we will need to take:
 
@@ -84,21 +79,17 @@ As we Exodus each integration, there is a common set of actions that we will nee
 2. Bring solution/project files up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5.1 & Eclipse Luna/JDK 8)
 3. Remove unnecessary dependencies (tool?)
 4. Remove dead/commented out code (tool?)
-5. Set all dependencies to use NuGet/MyGet/Maven Central components
+5. Set all dependencies to use MyGet
 6. Create new unit test project/package, pull in any existing usable tests
 7. For .NET projects, refactor unit tests using MSTest
-8. For Java projects, refactor unit tests using latest JUnit
-9. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
-10. Research target system dependencies, make note of newer versions
+8. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
+9. Research target system dependencies, make note of newer versions
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
 11. Ensure that project compiles
 12. Ensure the existing unit tests pass
-13. Create Azure VM with latest tested target system version
-14. Manual test integration using Azure VM
-15. Create Jenkins job for CI builds/unit test runs of integration
-16. Verify integration documentation
-17. Verify auto-population and accuracy of AppCatalog entries (staging)
-18. Triage related GitHub issues and add to backlog as needed
-19. Hold post-mortem to review lessons learned
+13. Create Jenkins job for CI builds/unit test runs of integration
+14. Confirm availability of integration documentation
+15. Verify auto-population and accuracy of AppCatalog entries (staging)
+16. Hold post-mortem to review lessons learned
 
 > As we work through each integration, we'll look for problem areas and log them as GitHub issues. We will not be fixing those issues during the Exodus as our focus is to modernize and ensure that the current code compiles and functions. We will address issues during the [Maintain](https://github.com/versionone/openAgile/blob/master/Evolve/Maintain.md) phase.
