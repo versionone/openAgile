@@ -10,31 +10,49 @@ We will Exodus the following integrations, order TBD:
 	<tr>
 		<th>Name</th>
 		<th>Repo</th>
+		<th>Dependencies</th>
 		<th>Notes</th>
 	</tr>
 	<tr>
-		<td>Innovation Games</td>
+		<td>Innovation Games (BuyAFeatureServices)</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Buy-A-Feature</td>
+		<td>VersionOne.BuyAFeature</br>VersionOne.ServerConnector</br>VersionOne.ServiceHost.Core</br>Microsoft.Practices</br>Ninject</td>
 		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
-		<td>JIRA</td>
+		<td>Innovation Games (BuyAFeature)</td>
+		<td></td>
+		<td>VersionOne.ServiceHost.Core</br>Microsoft.Practices</td>
+		<td>Repo contains documentation only.</td>
+	</tr>
+	<tr>
+		<td>JIRA (JiraServices)</td>
 		<td>https://github.com/versionone/VersionOne.Integration.JIRA</td>
+		<td>VersionOne.Jira.Proxy/Connector</br>VersionOne.SDK.APIClient</br>VersionOne.ServerConnector</br>VersionOne.ServiceHost.Core</br>VersionOne.ServiceHost.WorkitemServices</br>Ninject</td>
+		<td>Repo contains documentation only.</td>
+	</tr>
+	<tr>
+		<td>JIRA (JiraConnector)</td>
+		<td></td>
+		<td>VersionOne.ServiceHost.WorkitemServices</td>
 		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>Perforce</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Perforce</td>
+		<td>VersionOne.ServiceHost.Core</br>VersionOne.ServiceHost.SourceServices</br>Ninject</br>p4api</br>p4dn</td>
 		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>Quality Center</td>
 		<td>https://github.com/versionone/VersionOne.Integration.QualityCenter</td>
+		<td>VersionOne.ServiceHost.Core</br>VersionOne.ServiceHost.TestServices</br>VersionOne.ServiceHost.WorkitemServices</br>Interop.TDAPIOLEib</br>Ninject</td>
 		<td>Repo contains documentation only.</td>
 	</tr>
 	<tr>
 		<td>Subversion</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Subversion</td>
+		<td>VersionOne.SDK.APIClient</br>VersionOne.ServiceHost.Core</br>log4net</br>Newtonsoft.Json</br>Ninject</br>OAuth2Client</br>SharpSvn</br>SharpSvn.UI</br>FSharp.Data</br>FSharp.Data.DesignTime</td>
 		<td>Source code is in repo, buts needs cleanup and verification.</td>
 	</tr>
 </table>
