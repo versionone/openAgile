@@ -1,6 +1,6 @@
 # openAgile Evolve Exodus Plan
 
-An primary goal of the Evolve Team is to unlock legacy integrations from the internal SVN repository, update and refactor them, then make them available in GitHub as open source solutions. As discussed in the [openAgile Evolve Charter](Chater.md), the team will focus on the following tasks for the Exodus:
+An primary goal of the Evolve Team is to unlock legacy integrations from the internal SVN repository, update and refactor them, then make them available in GitHub as open source solutions.
 
 ## Integrations Slated for Exodus
 
@@ -54,6 +54,18 @@ We will Exodus the following integrations, order TBD:
 		<td>https://github.com/versionone/VersionOne.Integration.Subversion</td>
 		<td>VersionOne.SDK.APIClient</br>VersionOne.ServiceHost.Core</br>log4net</br>Newtonsoft.Json</br>Ninject</br>OAuth2Client</br>SharpSvn</br>SharpSvn.UI</br>FSharp.Data</br>FSharp.Data.DesignTime</td>
 		<td>Source code is in repo, buts needs cleanup and verification.</td>
+	</tr>
+	<tr>
+		<td>Bugzilla (Services)</td>
+		<td>https://github.com/versionone/VersionOne.Integration.Bugzilla</td>
+		<td>VersionOne.Bugzilla.XmlRpcProxy</br>VersionOne.ServiceHost.Core</br>VersionOne.ServiceHost.WorkitemServices</br>Ninject</td>
+		<td>Perl scripts code is in repo, but ServiceHost code is not.</td>
+	</tr>
+	<tr>
+		<td>Bugzilla (XmlRpcProxy)</td>
+		<td></td>
+		<td>CookComuting.XmlRpcV2</td>
+		<td>Perl scripts code is in repo, but ServiceHost code is not.</td>
 	</tr>
 </table>
 

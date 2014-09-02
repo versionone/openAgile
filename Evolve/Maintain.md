@@ -88,8 +88,10 @@ Based on the [Integration Checklist: Summer 2014](http://confluence/display/V1In
 
 Prior to beginning to work on integration maintenance, there are a few actions that we will need to take:
 
-* Refactor ServiceHost Configuration Tool (may require work from openAgile ? Team)
-* Refactor ServiceHost (may require work from openAgile ? Team)
+* Refactor ServiceHost Configuration Tool (may require work from openAgile Sprint Team)
+* Refactor ServiceHost
+* Refactor additional shared dependencies (i.e. WorkitemServices, ServerConnector, etc.)
+* Refactor OAuth enablement approach (client.secrets and stored.credentials file dependency)
 
 ## Maintain Actions Checklist
 

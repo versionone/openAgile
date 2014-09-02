@@ -128,6 +128,8 @@ The final theme is that of developer support which is a component of engaging th
 ## Fuse
 TBD
 
+> View the [Fuse Plan](Fuse.md) for more details.
+
 ### Exit Criteria:
 
 * TBD
