@@ -1,6 +1,6 @@
-## Versioning Policy
+## Versioning and Deployment Policy
 
-In order to provide a more constent way to version the products that the openAgile team creates, we will adopt a [software versioning policy](http://en.wikipedia.org/wiki/Software_versioning) that makes our versioning not only consistent, but meaningful. This is especially important for our integrations as VersionOne support often asks customers the build numbers of the integrations that they are using.
+In order to provide a more constent way to version the products that the openAgile team creates, we will adopt a [software versioning](http://en.wikipedia.org/wiki/Software_versioning) and deployment policy that makes the versions of our releases not only consistent, but meaningful. This is especially important for our integrations as VersionOne support often asks customers the build numbers of the integrations that they are using.
 
 
 ### Versioning Semantics
@@ -38,3 +38,4 @@ In order to provide a more constent way to version the products that the openAgi
 
 * [Semantic Versioning](http://semver.org/)
 * [Best Practices for .NET Assembly Versioning](http://blogs.msdn.com/b/jjameson/archive/2009/04/03/best-practices-for-net-assembly-versioning.aspx)
+* [Semantic Versioning with Continuous Deployment](http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/)
