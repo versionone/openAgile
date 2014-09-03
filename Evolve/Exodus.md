@@ -122,9 +122,9 @@ An important aspect of Exodusing the integrations is the use of a consistent pro
 	* Phases:
 		* **Build**: Triggered from GutHub commits, compiles and executes unit tests
 		* **Test**: Executes integration/end-to-end tests
-		* **Deploy**: Packages and deploys to a public (beta) repository suchs as MyGet/Artifactory
+		* **Deploy**: Packages and deploys to a public (beta) repository such as MyGet/Artifactory
 		* **Release**: Deploys to a public (release) repository such as NuGet/Maven Central
-		* **Sandbox**: Created the test VMs used for the integration
+		* **Sandbox**: Creates the test VM used for the integration
 * Ensure that we follow a consistent [versioning policy](https://github.com/versionone/openAgile/blob/master/VersionOne/Artifacts/VersioningPolicy.md)
 
 
@@ -152,9 +152,10 @@ As we Exodus each integration, there is a common set of actions that we will nee
 8. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
 9. Research target system dependencies, make note of newer versions
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
-11. Ensure that project compiles
-12. Ensure the existing unit tests pass
-13. Create Jenkins job for CI builds/unit test runs of integration
+11. Ensure that project compiles (debug and release)
+12. Ensure that existing unit tests pass
+13. Create Jenkins "build" job for build/unit test runs
+14. Create Jenkins "deploy" job for MyGet deployment
 14. Confirm availability of integration documentation
 15. Verify auto-population and accuracy of AppCatalog entries (staging)
 16. Hold post-mortem to review lessons learned
