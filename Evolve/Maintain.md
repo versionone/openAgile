@@ -99,6 +99,7 @@ As we move each integration into maintenance mode, there is a common set of acti
 
 1. Create hosted test environment (Azure VMs) with current target system version
 2. Ensure that integration compiles and works with current target system version
+3. Where it makes sense, update integration to use the VersionOne.ServiceHost.ServerConnector instead of direct API Client calls.
 3. Update integration to use only OAuth for V1 authentication
 4. Triage related GitHub issues and add to backlog as needed
 5. Expand unit test coverage using mocking frameworks as needed
