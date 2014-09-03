@@ -117,11 +117,14 @@ An important aspect of Exodusing the integrations is the use of a consistent pro
 
 * Place all integration Jenkins jobs in the "Integrations" folder
 * Ensure that we use a consistent naming scheme for all Jenkins jobs using a "GitHub repo name-branch-phase" naming pattern
+	* GitHub repo name: Should be consistent to group make it easier to find related projects
+	* Branch: In most cases will be "master", but may use other branches as needed
 	* Phases:
 		* **Build**: Triggered from GutHub commits, compiles and executes unit tests
 		* **Test**: Executes integration/end-to-end tests
 		* **Deploy**: Packages and deploys to a public (beta) repository suchs as MyGet/Artifactory
 		* **Release**: Deploys to a public (release) repository such as NuGet/Maven Central
+		* **Sandbox**: Created the test VMs used for the integration
 * Ensure that we follow a consistent [versioning policy](https://github.com/versionone/openAgile/blob/master/VersionOne/Artifacts/VersioningPolicy.md)
 
 
