@@ -148,7 +148,7 @@ As we Exodus each integration, there is a common set of actions that we will nee
 4. Remove dead/commented out code (tool?)
 5. Set all dependencies to use MyGet
 6. Create new unit test project/package, pull in any existing usable tests
-7. For .NET projects, refactor unit tests using MSTest
+7. For .NET projects, refactor unit tests using MSTest (see [Comparing the MSTest and Nunit Frameworks](http://blogs.msdn.com/b/nnaderi/archive/2007/02/01/mstest-vs-nunit-frameworks.aspx))
 8. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
 9. Research target system dependencies, make note of newer versions
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
