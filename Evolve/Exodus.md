@@ -71,7 +71,7 @@ We will Exodus the following integrations, order TBD:
 
 ## Shared Components
 
-A key aspect of the Exodus is to find common dependencies and break them out as individual projects, cleanup and verify them, then put them into their own GitHub repositories to be referenced by the integration projects. Where it makes sense, we will extrapolate the components into a public repository such as MyGet/NuGet.
+A key aspect of the Exodus is to find common dependencies and break them out as individual projects, cleanup and verify them, then put them into their own GitHub repositories. In addition, each component will have its own Jenkins job for compiling, running unit tests, and publishing to MyGet.
 
 <table border="1" width="100%">
 	<tr>
@@ -85,9 +85,29 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 		<td>Source code is in repo, buts needs cleanup and verification.</td>
 	</tr>
 	<tr>
+		<td>ServiceHost.ServerConnector</td>
+		<td>REPO DOES NOT EXIST</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>ServiceHost.WorkitemServices</td>
+		<td>REPO DOES NOT EXIST</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>ServiceHost.TestServices</td>
+		<td>REPO DOES NOT EXIST</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>ServiceHost.ChnagesetServices</td>
+		<td>REPO DOES NOT EXIST</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>ServiceHost.ConfigurationTool</td>
 		<td>REPO DOES NOT EXIST</td>
-		<td>Needs cleanup and verification.</td>
+		<td></td>
 	</tr>
 </table>
 
