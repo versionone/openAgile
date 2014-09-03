@@ -86,8 +86,8 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 	</tr>
 	<tr>
 		<td>ServiceHost.ServerConnector</td>
-		<td>REPO DOES NOT EXIST</td>
-		<td></td>
+		<td>https://github.com/versionone/Platform.V1.ServerConnector</td>
+		<td>Need to change repo name.</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.WorkitemServices</td>
@@ -100,7 +100,7 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 		<td></td>
 	</tr>
 	<tr>
-		<td>ServiceHost.ChnagesetServices</td>
+		<td>ServiceHost.ChangesetServices</td>
 		<td>REPO DOES NOT EXIST</td>
 		<td></td>
 	</tr>
@@ -110,6 +110,20 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 		<td></td>
 	</tr>
 </table>
+
+## Packaging, Deployment, and Versioning
+
+An important aspect of Exodusing the integrations is the use of a consistent process for build, test, package, and deployment. In this regard we will:
+
+* Place all integration Jenkins jobs in the "Integrations" folder
+* Ensure that we use a consistent naming scheme for all Jenkins jobs using a "GitHub repo name-branch-phase" naming pattern
+	* Phases:
+		* **Build**: Triggered from GutHub commits, compiles and executes unit tests
+		* **Test**: Executes integration/end-to-end tests
+		* **Deploy**: Packages and deploys to a public (beta) repository suchs as MyGet/Artifactory
+		* **Release**: Deploys to a public (release) repository such as NuGet/Maven Central
+* Ensure that we follow a consistent [versioning policy](https://github.com/versionone/openAgile/blob/master/VersionOne/Artifacts/VersioningPolicy.md)
+
 
 ## Pre-Exodus Actions
 
