@@ -135,26 +135,28 @@ Prior to moving integrations into their own GitHub repositories, there are a few
 1. Purge the [ServiceHost GitHub Repo](https://github.com/versionone/ServiceHost) of sunset integrations
 2. Run the [VS Solution Dependency Visualizer](http://www.devio.at/index.php/vsslndepvis) to understand all dependencies
 3. Break out common dependencies into shared components
-4. Create Jenkins build job using psake tools for each shared component
-4. Publish the common dependencies in MyGet/NuGet as needed
+4. Create Jenkins build jobs using psake tools for each shared component
+4. Publish the shared components in MyGet
  
 ## Exodus Actions Checklist
 
 As we Exodus each integration, there is a common set of actions that we will need to take:
 
 1. Detangle integration from ServiceHost solution, put it in its own GitHub repo
-2. Bring solution/project files up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5.1 & Eclipse Luna/JDK 8)
+2. Check repo description, .gitignore, and Markdown files
+3. Ensure that repo publishes commits to HipChat
+2. Bring solution/project files up to latest IDE/Framework versions (Visual Studio 2013/.NET Framework 4.5.1)
+3. Bring integration up to latest V1 API Client version
 3. Remove unnecessary dependencies (tool?)
 4. Remove dead/commented out code (tool?)
 5. Set all dependencies to use MyGet
-6. Create new unit test project/package, pull in any existing usable tests
-7. For .NET projects, refactor unit tests using MSTest (see [Comparing the MSTest and Nunit Frameworks](http://blogs.msdn.com/b/nnaderi/archive/2007/02/01/mstest-vs-nunit-frameworks.aspx))
-8. Bring integrations up to latest V1 SDK versions (.NET and Java API clients)
+6. Review and refactor project build events
+6. Create new unit test project, pull in any existing usable tests refactor using MSTest (see [Comparing the MSTest and Nunit Frameworks](http://blogs.msdn.com/b/nnaderi/archive/2007/02/01/mstest-vs-nunit-frameworks.aspx))
 9. Research target system dependencies, make note of newer versions
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
 11. Ensure that project compiles (debug and release)
 12. Ensure that existing unit tests pass
-13. Create Jenkins "build" job for build/unit test runs
+13. Create Jenkins "build" job for build/unit test runs, triggered from GitHub commit
 14. Create Jenkins "deploy" job for MyGet deployment
 14. Confirm availability of integration documentation
 15. Verify auto-population and accuracy of AppCatalog entries (staging)
