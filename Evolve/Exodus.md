@@ -77,37 +77,37 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 	<tr>
 		<th>Name</th>
 		<th>Repo</th>
-		<th>Notes</th>
+		<th>Version</th>
 	</tr>
 	<tr>
 		<td>ServiceHost.Core</td>
 		<td>https://github.com/versionone/VersionOne.ServiceHost.Core</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
+		<td>Was 1.0.14247.228, needs to rest to 1.1.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.ServerConnector</td>
 		<td>https://github.com/versionone/Platform.V1.ServerConnector</td>
-		<td>Need to change repo name.</td>
+		<td>1.0.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.WorkitemServices</td>
 		<td>REPO DOES NOT EXIST</td>
-		<td></td>
+		<td>1.0.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.TestServices</td>
 		<td>REPO DOES NOT EXIST</td>
-		<td></td>
+		<td>1.0.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.ChangesetServices</td>
 		<td>REPO DOES NOT EXIST</td>
-		<td></td>
+		<td>1.0.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.ConfigurationTool</td>
 		<td>REPO DOES NOT EXIST</td>
-		<td></td>
+		<td>1.0.0.0</td>
 	</tr>
 </table>
 
