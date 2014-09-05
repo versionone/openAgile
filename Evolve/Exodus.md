@@ -149,15 +149,17 @@ As we Exodus each integration, there is a common set of actions that we will nee
 3. Bring integration up to latest V1 API Client version
 3. Remove unnecessary dependencies (tool?)
 4. Remove dead/commented out code (tool?)
-5. Set all dependencies to use MyGet
+5. Update all dependencies to use MyGet/NuGet as appropriate
 6. Review and refactor project build events
 6. Create new unit test project, pull in any existing usable tests refactor using MSTest (see [Comparing the MSTest and Nunit Frameworks](http://blogs.msdn.com/b/nnaderi/archive/2007/02/01/mstest-vs-nunit-frameworks.aspx))
-9. Research target system dependencies, make note of newer versions
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
 11. Ensure that project compiles (debug and release)
 12. Ensure that existing unit tests pass
 13. Create Jenkins "build" job for build/unit test runs, triggered from GitHub commit
+14. Ensure Jenkins "build" job publishes success/failures to HipChat
+15. Ensure Jenkins "build" job publishes MSTest results
 14. Create Jenkins "deploy" job for MyGet deployment
+15. Ensure Jenkins "deploy" job publishes success/failures to HipChat
 14. Confirm availability of integration documentation
 15. Verify auto-population and accuracy of AppCatalog entries (staging)
 16. Hold post-mortem to review lessons learned
