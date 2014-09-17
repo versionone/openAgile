@@ -82,16 +82,16 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 	<tr>
 		<td>ServiceHost.Core</td>
 		<td>https://github.com/versionone/VersionOne.ServiceHost.Core</td>
-		<td>Was 1.0.14247.228, needs to rest to 1.1.0.0</td>
+		<td>Was 1.0.14247.228, reset to 1.1.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.ServerConnector</td>
-		<td>https://github.com/versionone/Platform.V1.ServerConnector</td>
+		<td>https://github.com/versionone/VersionOne.ServiceHost.ServerConnector</td>
 		<td>1.0.0.0</td>
 	</tr>
 	<tr>
 		<td>ServiceHost.WorkitemServices</td>
-		<td>REPO DOES NOT EXIST</td>
+		<td>https://github.com/versionone/VersionOne.ServiceHost.WorkitemServices</td>
 		<td>1.0.0.0</td>
 	</tr>
 	<tr>
@@ -101,7 +101,7 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 	</tr>
 	<tr>
 		<td>ServiceHost.ChangesetServices</td>
-		<td>REPO DOES NOT EXIST</td>
+		<td>https://github.com/versionone/VersionOne.ServiceHost.ChangesetServices</td>
 		<td>1.0.0.0</td>
 	</tr>
 	<tr>
