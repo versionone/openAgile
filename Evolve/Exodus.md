@@ -96,7 +96,7 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 	</tr>
 	<tr>
 		<td>ServiceHost.TestServices</td>
-		<td>REPO DOES NOT EXIST</td>
+		<td>https://github.com/versionone/VersionOne.ServiceHost.TestServices</td>
 		<td>1.0.0.0</td>
 	</tr>
 	<tr>
@@ -151,7 +151,7 @@ As we Exodus each integration, there is a common set of actions that we will nee
 4. Remove dead/commented out code (tool?)
 5. Update all dependencies to use MyGet/NuGet as appropriate
 6. Review and refactor project build events
-6. Create new unit test project, pull in any existing usable tests refactor using MSTest (see [Comparing the MSTest and Nunit Frameworks](http://blogs.msdn.com/b/nnaderi/archive/2007/02/01/mstest-vs-nunit-frameworks.aspx))
+6. Create new unit test project, pull in any existing usable tests refactor using MSTest (see [Comparing the MSTest and NUnit Frameworks](http://blogs.msdn.com/b/nnaderi/archive/2007/02/01/mstest-vs-nunit-frameworks.aspx))
 10. Rename integration executable and config file to match integration name (not ServiceHost.exe)
 11. Ensure that project compiles (debug and release)
 12. Ensure that existing unit tests pass
