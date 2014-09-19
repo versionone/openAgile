@@ -123,7 +123,7 @@ An important aspect of Exodusing the integrations is the use of a consistent pro
 		* **Build**: Triggered from GutHub commits, compiles and executes unit tests
 		* **Test**: Executes integration/end-to-end tests
 		* **Deploy**: Packages and deploys to a public (beta) repository such as MyGet/Artifactory
-		* **Release**: Deploys to a public (release) repository such as NuGet/Maven Central
+		* **Release**: Deploys to a public (release) repository such as NuGet/Maven Central, updates documentation and AppCatalog entries
 		* **Sandbox**: Creates the test VM used for the integration
 * Ensure that we follow a consistent [versioning policy](https://github.com/versionone/openAgile/blob/master/VersionOne/Artifacts/VersioningPolicy.md)
 
