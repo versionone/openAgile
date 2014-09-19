@@ -115,16 +115,17 @@ A key aspect of the Exodus is to find common dependencies and break them out as 
 
 An important aspect of Exodusing the integrations is the use of a consistent process for build, test, package, and deployment. In this regard we will:
 
-* Place all integration Jenkins jobs in the "Integrations" folder
+* Place all integration Jenkins jobs in the "Integrations" tab view
+* Place all SDK Jenkins jobs in the "Platform" tab view
 * Ensure that we use a consistent naming scheme for all Jenkins jobs using a "GitHub repo name-branch-phase" naming pattern
 	* GitHub repo name: Should be consistent to group make it easier to find related projects
 	* Branch: In most cases will be "master", but may use other branches as needed
 	* Phases:
 		* **Build**: Triggered from GutHub commits, compiles and executes unit tests
-		* **Test**: Executes integration/end-to-end tests
-		* **Deploy**: Packages and deploys to a public (beta) repository such as MyGet/Artifactory
-		* **Release**: Deploys to a public (release) repository such as NuGet/Maven Central, updates documentation and AppCatalog entries
-		* **Sandbox**: Creates the test VM used for the integration
+		* **Test**: Triggered to run nightly, executes integration/end-to-end tests
+		* **Deploy**: Triggered from successful "Test" job, packages and deploys to a public (beta) repository such as MyGet/Artifactory
+		* **Release**: Triggered on demand, deploys to a public (release) repository such as NuGet/Maven Central, updates documentation and AppCatalog entries
+		* **Sandbox**: Triggered on demand, creates the test VM used for the integration
 * Ensure that we follow a consistent [versioning policy](https://github.com/versionone/openAgile/blob/master/VersionOne/Artifacts/VersioningPolicy.md)
 
 
