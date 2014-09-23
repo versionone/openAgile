@@ -67,6 +67,11 @@ We will Exodus the following integrations, order TBD:
 		<td>CookComuting.XmlRpcV2</td>
 		<td>Perl scripts code is in repo, but ServiceHost code is not.</td>
 	</tr>
+	<tr>
+		<td>TeamCity</td>
+		<td>https://github.com/versionone/VersionOne.Integration.TeamCity</td>
+		<td></td>
+	</tr>
 </table>
 
 ## Shared Components
