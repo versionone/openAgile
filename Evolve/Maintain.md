@@ -82,6 +82,11 @@ Based on the [Integration Checklist: Summer 2014](http://confluence/display/V1In
 		<td>.NET</td>
 		<td>https://github.com/versionone/VersionOne.Integration.VSTFS</td>
 	</tr>
+	<tr>
+		<td>TortoiseSVN</td>
+		<td>.NET</td>
+		<td>https://github.com/versionone/VersionOne.Integration.TortoiseSVN</td>
+	</tr>	
 </table>
 
 ## Pre-Maintain Actions
