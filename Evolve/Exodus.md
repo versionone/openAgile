@@ -22,8 +22,8 @@ We will Exodus the following integrations, order TBD:
 	<tr>
 		<td>JIRA (JiraServices)</td>
 		<td>https://github.com/versionone/VersionOne.Integration.JIRA</td>
-		<td>Started, needs to use shared components</td>
-		<td></td>
+		<td>In Progress</td>
+		<td>In GitHub, needs to use shared components, refactor unit tests</td>
 	</tr>
 	<tr>
 		<td>Perforce</td>
@@ -34,26 +34,26 @@ We will Exodus the following integrations, order TBD:
 	<tr>
 		<td>Quality Center</td>
 		<td>https://github.com/versionone/VersionOne.Integration.QualityCenter</td>
-		<td>Not Started</td>
-		<td>Repo contains documentation only.</td>
+		<td>In Progress</td>
+		<td>In GitHub, needs to use shared components, refactor unit tests.</td>
 	</tr>
 	<tr>
 		<td>Subversion</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Subversion</td>
-		<td>Started, needs to use shared components</td>
-		<td>Source code is in repo, buts needs cleanup and verification.</td>
+		<td>In Progress</td>
+		<td>In GitHub, needs to use shared components, refactor unit tests</td>
 	</tr>
 	<tr>
 		<td>Bugzilla (Services)</td>
 		<td>https://github.com/versionone/VersionOne.Integration.Bugzilla</td>
-		<td>Started, needs to use shared components</td>
-		<td>.</td>
+		<td>In Progress</td>
+		<td>In GitHub, needs to use shared components, refactor unit tests</td>
 	</tr>
 	<tr>
 		<td>TeamCity</td>
 		<td>https://github.com/versionone/VersionOne.Integration.TeamCity</td>
 		<td>Not started</td>
-		<td></td>
+		<td>Repo contains documentation only.</td>
 	</tr>
 </table>
 
