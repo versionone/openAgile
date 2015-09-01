@@ -71,4 +71,3 @@ Notes from team training on https://elearning.industriallogic.com/gh/submit?Acti
 
 *  Shawn Marie: Independent is most important
   * Non-independent example: API coming before UI. The UI story Depends On the API.
-* 
