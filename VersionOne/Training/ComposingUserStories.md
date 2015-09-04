@@ -71,3 +71,38 @@ Notes from team training on https://elearning.industriallogic.com/gh/submit?Acti
 
 *  Shawn Marie: Independent is most important
   * Non-independent example: API coming before UI. The UI story Depends On the API.
+
+### Negotiable
+
+* Be aware when it's negotiation versus NEW STORY
+* DEVS inform Shawn Marie about NEW TESTS or CHANGES
+
+### Valuable
+
+* Technical work is PART Of implementing Stories, but is not itself a "User Story"
+	* Technical work, refactoring, unit tests, etc are the foundations of the ABILITY to DELIVER ANYTHING OF VALUE
+		* Therefore, DO NOT fall prey to tendency to accuse those of doing technical work as "not contributing to a User Story"
+## Summary
+
+* Apply the INVEST guidelines to help you, not box you into a rigid frame.
+
+# Great User Stories
+
+## Essential
+
+* Helps you focus on what charter and sponsors want
+
+## What About Developer Needs?
+
+* TODO: deep dive this one more
+
+## External Stories
+
+* User Stories that are external to a System Boundary focus on organizational and business concerns rather than technical ones
+* Example: CS API
+
+## Instantaneous Stories
+
+* A great story describes an instantaneous event
+* Ex: System Sends Daily Summary Email
+* Ex: Customer Selects Report
