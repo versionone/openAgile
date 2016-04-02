@@ -2,6 +2,7 @@
 
 Add one initials-prefixed bullet per idea, no matter how immediately practical or not. Use sub-bullets for fleshing them out a bit.
 
+* JG/WS: Add formal CORS support for VersionOne instances -- allow to be toggled in System Administration such that the admin can provide a proper `Access-Control-Allow-Origin` and related headers. See prior branch experiments here:  https://github.com/versionone/VersionOne.SDK.Experimental/tree/master/ApiInputTranslatorPlugins
 * JG: What are the documentation hurdles that our own teammates in V1 Dev teams, Support, and Services face when trying to code against the API or support customers?
 * JG: Within our existing Java, .NET, Python, and JavaScript API client, what's a quick win we can take to make a large number of people happier?
 * AndrewS: GraphQL based support for querying v1
