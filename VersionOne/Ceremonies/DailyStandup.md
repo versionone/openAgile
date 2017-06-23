@@ -12,15 +12,11 @@ We use [our TeamRoom](https://www7.v1host.com/V1Production/TeamRoom.mvc/Show/354
 
 ## VersionOne Stand Up / Stand Around
 
-![Daily Stand Up](http://blogs.versionone.com/agile_management/wp-content/uploads/sites/3/2013/04/Daily-Standup-Landing-page21.jpg)
-
-Read photo details in this blog post by [VersionOne QA Lead, JoEllen Carter](http://blogs.versionone.com/agile_management/2013/04/30/standup-or-standaround/). She is vertically above her name in the previous sentence :)
-
-## Time
+### Time
 
 10:00 AM EST - 10:15 AM EST on Monday - Friday
 
-## GoToMeeting Info:
+### Zoom Info:
 
 [See Standard GoToMeeting](StandardGoToMeeting.md)
 
