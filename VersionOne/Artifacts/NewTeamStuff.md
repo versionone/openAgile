@@ -22,7 +22,7 @@ Submit suggestions into the GroupMap at https://join.groupmap.com/963-036-497
 
 ## 3 - How, when, and who gets to work on highly technical or architectural challenges
 
-## 3 - How we approach ZenDesk support: DOC , pDOC, etc
+## 3 - How we approach ZenDesk support: DOC, pDOC, etc
 
 ## 3 - How we engage, as a development team, with our own UX end users (which includes our own teams)
 
