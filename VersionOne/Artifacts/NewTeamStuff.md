@@ -1,3 +1,39 @@
+# Suvey topics
+
+## User submitted - What type of integration development is going to take place?
+
+## User submitted - Security and how we get better as a team
+
+## 4 - Team Name
+
+Submit suggestions into the GroupMap at https://join.groupmap.com/963-036-497
+
+## 4 - Workflow Process (Kanban vs Scrum, etc)
+
+## 4 - How we pay down Tech Debt
+
+## 4 - How we handle resolving prioritized Defects
+
+## 4 - How we approach manual testing and test automation engineering; and how to share the burdens and the pleasures of each
+
+## 4 - How we contribute to and provide feedback on Product & Services (plans, research, goals, etc)
+
+## 3 - How, when, and who works on leading features
+
+## 3 - How, when, and who gets to work on highly technical or architectural challenges
+
+## 3 - How we approach ZenDesk support: DOC , pDOC, etc
+
+## 3 - How we engage, as a development team, with our own UX end users (which includes our own teams)
+
+## 3 - How we engage, as a development team, with our API-user end users (which includes our own teams)
+
+## 2 - Using WIP limits
+
+## 2 - How we celebrate successes that are technical, and how that is different from sales successes
+
+## 2 - How we consume from and/or contribute to the open source world
+
 # TeamRoom & Backlog Approach
 
 * Scoped such that all work by our five devs (+1 to come) and 1 SEIT (+1 Agile Tester to come) are working on
