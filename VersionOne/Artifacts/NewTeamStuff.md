@@ -1,4 +1,4 @@
-# Suvey topics
+# Survey topics and votes
 
 ## User submitted - What type of integration development is going to take place?
 
