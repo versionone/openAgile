@@ -17,6 +17,5 @@
     * Community Site Documentation Updates
 
 # Team Focus (Cakelike / Teamroom Like) Product 
-* Create a Slack channel where people can chatter and share ideas
-
+* See #on-demand-agile channel for current progress documents, and for discussion
 
